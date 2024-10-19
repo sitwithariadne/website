@@ -7,7 +7,6 @@
 [What is Mindfulness](posts/what-is-mindfulness.md)  
 [When to Ban Someone](posts/when-to-ban-someone.md)
 [ADHD Friendly Kid Activities Menu](posts/adhd-friendly-kid-activities-menu.md)  
-[Affect Neurobiology](posts/affect-neurobiology.md)  
 [Attachment Styles](posts/attachment-styles.md)  
 [Basic Sequence](posts/basic-sequence.md)  
 [Box Breathing](posts/box-breathing.md)  
