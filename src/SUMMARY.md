@@ -1,3 +1,5 @@
+# Summary 
+
 # Meditation and Mindfulness
 
 [How to Pick a Meditation Teacher](posts/how-to-pick-a-meditation-teacher.md)  
@@ -18,7 +20,6 @@
 [Foster's Mantras](posts/fosters-mantras.md)  
 [Free DBT Resources](posts/free-dbt-resources.md)  
 [Good Bad Who Knows](posts/good-bad-who-knows.md)  
-[Hinderances](posts/hinderances.md)  
 [I Am Alone](posts/i-am-alone.md)  
 [Low Or No Spoon Meditation](posts/low-or-no-spoon-meditation.md)  
 [Meditation Is Not a Zero Risk Activity](posts/meditation-is-not-a-zero-risk-activity.md)  
