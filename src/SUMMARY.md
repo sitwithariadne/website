@@ -1,5 +1,3 @@
-# Summary 
-
 # Meditation and Mindfulness
 
 [How to Pick a Meditation Teacher](posts/how-to-pick-a-meditation-teacher.md)  
