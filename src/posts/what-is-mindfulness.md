@@ -49,7 +49,10 @@ I have reworded and remixed what follows as Mindfulness Targets.
 -   Patience for ourselves and others
 -   Non-judgement and awareness of the whole self
 
+---------------------------
 
-Redirect: http://www.sitwithariadne.com/what-is-mindfulness
+v1.3 19-Oct-2024
 
-v1.1 2-Apr-2022. Reprinted under Fair Use.
+Referenced works are the copyrights of their respective owners. 
+
+This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

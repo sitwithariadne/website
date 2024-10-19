@@ -1,5 +1,6 @@
 # Meditation and Mindfulness
 
+[What is Mindfulness](posts/what-is-mindfulness.md)  
 [How to Pick a Meditation Teacher](posts/how-to-pick-a-meditation-teacher.md)  
 [Merging Deity Practice with Metta](posts/merging-deity-practice-with-metta.md)  
 [Ten Fetter Model of Enlightenment](posts/ten-fetter-model-of-enlightenment.md)  
@@ -40,5 +41,5 @@
 [Transcendence - 1 of 2](posts/transcendence-1-of-2.md)  
 [Transcendence - 2 of 2](posts/transcendence-2-of-2.md)  
 [Trolley Problems](posts/trolley-problems.md)  
-[What is Mindfulness - Christine Forner](posts/what-is-mindfulness-christine-forner.md)  
+
 [Who am I Anyway](posts/who-am-i-anyway.md)
