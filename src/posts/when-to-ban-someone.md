@@ -21,5 +21,8 @@ This goes on for some ways.
 I originally read it in this book
 [The Buddha's Teachings on Social and Communal Harmony](https://blackwells.co.uk/bookshop/product/The-Buddhas-Teachings-on-Social-and-Communal-Harmony-by-Bodhi-editor/9781614293552) - Edited and introduced by Bhikkhu Bodhi
 
-v1.0 - Last edit 14-Nov-2021  
-© 2021. This work is licensed under  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (share and remix)
+---------------------
+
+v1.1 - Last edit 19-Oct-2024  
+
+This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
