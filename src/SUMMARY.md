@@ -1,7 +1,7 @@
-# DBT
+# Meditation and Mindfulness
 
-[Crisis Survival](dbt/crisis-survival.md)
-[DEAR MAN](dbt/dear-man.md)
-[Should I End This Relationship](dbt/should-i-end-this-relationship.md)
-[Sleep Hygiene Protocol](dbt/sleep-hygiene-protocol.md)
-[Reality Acceptance](dbt/reality-acceptance.md)
+[How to Pick a Meditation Teacher](posts/how-to-pick-a-meditation-teacher.md)  
+[Merging Deity Practice with Metta](posts/merging-deity-practice-with-metta.md)  
+[Ten Fetter Model of Enlightenment](posts/ten-fetter-model-of-enlightenment.md)  
+[What is Mindfulness](posts/what-is-mindfulness.md)  
+[When to Ban Someone](posts/when-to-ban-someone.md)
