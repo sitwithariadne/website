@@ -26,6 +26,8 @@ If this makes things worse, as always, it's OK to stop.
 
 I've been using it on and off the last few days and it's brought me some relief, so I wanted to share it.
 
+-------------------------------
 
-v1.2 - Last edit 8-July-2024
+v1.3 - Last edit 19-Oct-2024
+
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

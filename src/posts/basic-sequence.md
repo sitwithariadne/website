@@ -14,6 +14,8 @@
 
 8. Train `the-mind` to default to  `serenity`. Practice attaining and staying in `serenity`.
 
+-----------------------
 
-v1.4 - Last edit 25-Feb-2022
-© 2022. This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (share and remix)
+v1.5 - Last edit 19-Oct-2024
+
+This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
