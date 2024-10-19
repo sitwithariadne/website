@@ -2,7 +2,8 @@
 
 Fetters are in grey.
 
-_Starting -_ **Stream-seeker**_, looking for deliverance/salvation/freedom from suffering._  
+# Start
+ **Stream-seeker**, looking for deliverance/salvation/freedom from suffering.  
 
 1.  `skeptical doubt`  (of path, the Buddha, the practice, the fruits, etc.)
 
@@ -10,11 +11,13 @@ _Starting -_ **Stream-seeker**_, looking for deliverance/salvation/freedom from 
 
 3. ` belief or consequences from self-view`  (basic duality, belief in independent self, belief in a soul, ignorance about basic impersonal causality)
 
-_1st Path - **Sottapana** - Knows what the path is, on the path, using fruit of the path, understands all parts of identity are fair game. Has had a clean taste of arhatship, to show the path isn't just possible, but inevitable._
+# 1st Path
+**Sottapana** - Knows what the path is, on the path, using fruit of the path, understands all parts of identity are fair game. Has had a clean taste of arhatship, to show the path isn't just possible, but inevitable._
 
 First three fetters are removed.
 
-_2nd Path -  **Sakadagami** - Understands that craving and aversion drive a lot of unwholesome behaviors -- is working to remove them -- has a lot of them already removed._
+# 2nd Path
+**Sakadagami** - Understands that craving and aversion drive a lot of unwholesome behaviors -- is working to remove them -- has a lot of them already removed.
 
 First three fetters removed, ill-will and sense-desire are greatly reduced.
 
@@ -22,7 +25,8 @@ First three fetters removed, ill-will and sense-desire are greatly reduced.
 
 5.  `sense-desire`  (craving based on not understanding impersonal causality)
 
-_3rd Path -  **Anagami** - Does not experience ill-will, hatred, greed, aversion, craving, or sense-desire. Lives in the sublimes, exits to understand self-ignorance._
+# 3rd Path
+**Anagami** - Does not experience ill-will, hatred, greed, aversion, craving, or sense-desire. Lives in the sublimes, exits to understand self-ignorance._
 
 First five fetters removed.
 
@@ -36,7 +40,8 @@ First five fetters removed.
 
 10.  `ignorance`  (any conditioned action from karma, any gap in full mental and bodily awareness)
 
-_4th path -  **Arhatship** - All contents and processes of mind are known, centerless, free from suffering of any kind._
+# 4th Path
+**Arhatship** - All contents and processes of mind are known, centerless, free from suffering of any kind.
 
 All ten fetters removed.  
 
@@ -52,7 +57,10 @@ All ten fetters removed.
 [^conceit]: Conceit (and it's antidote) is defined in [SN 22.89 *With Khemaka*](https://suttacentral.net/sn22.89/en/sujato?) 
 I wrote a [blog post](https://www.sitwithariadne.com/2022/04/conceit.html) on conceit.
 
-v1.3 - Last edit 23-Apr-2022
-This work is licensed under  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (share and remix)
+-----------------------------
+
+v1.4 - Last edit 19-Oct-2024
+
+This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
