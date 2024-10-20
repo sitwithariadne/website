@@ -1,4 +1,6 @@
-﻿The trolley thought experiment is an example that uses violence to create more violence. Let me demonstrate how.
+﻿**cw:** interpersonal abuse, minimization, negation, force, violence, coersion, forced teaming, gaslighting.
+
+The *trolley problem* is a surreal violent thought experiment, that invites participants to commit [violence](https://en.wikipedia.org/wiki/Violence) themselves.
 
 From Wikipedia:
 
@@ -14,50 +16,56 @@ From Wikipedia:
 
 Usually this problem is given with some stipulations:
 
-1. The participant being invited to engage with this imagined scenario must make a choice.
-2. There will be death.
-3. An ethical problem is present.
+1. The participant is told they __must__ make a choice.
+2. Someone __must__ die.
 
-I'd like to invite a few adjacent questions:
+My questions are ...
 
-#### How much violence is used on the participant to force compliance with taking the responsibility implied in this thought problem
+*How much violence is used on the participant to force them to solve it?*
 
-"You must do something."
+*How much is appropriate?*
+
+# You must do something
 
 Why do we feel compelled to engage?
 
-This can devolve into, "Well, if you do nothing those five people die and it will be your fault."
+"I don't do anything"
 
-... Notice there is some gaslighting there. Notice the guilt-trip. Notice the way the participant is asked to engage involves violence.
+"Well, if you do nothing those five people die and it would have been your fault."
 
-"This is your fault." Did you build the trolley? The switch? The tracks? Tie people to the rails? Did you lead a bystander with no involvement to a switch? Tell them they must do something?
+Notice the gaslighting and the guilt-trip. Notice the questioner is using violence to gain compliance.
+
+Who made the thought problem? Who invited others to it? Who is trying to make it someone else's problem?
 
 "You are now involved." In the abuse literature this would be forced teaming. Forced teaming is along the lines of "Now that we are in this, together, you might as well participate."
 
 Forced teaming is another compliance tool.
 
-Violence usually involves force to gain compliance, in this case compliance with engaging in the problem. 
-
 I'd invite the reader to go "Oh, sorry. I don't engage with violent thought problems."
 
-#### Notice how the problem is designed. It contains a high amount of surreality, situations that cannot be real.
+# Notice the Surreal Nature of the Problem
 
 So many stipulations to attempt to force compliance:
 
-* It can't be stopped
-* It happens regardless
-* The trolley can't control itself
-* These are the only choices
-* Someone must die
+* It's imaginary so the violence is OK.
+* It can't be stopped / it must happen
+* These are the only two choices
+* Someone dies
 * "Everyone knows what the right choice is"
-* "You know what you have to do"
 
 Real-life situations are rarely either-or. If a problem appears either-or, I'd invite you to do some more brainstorming to think of another solution.
 
 If someone says "you must comply" know ... what they are really saying is "I hope you don't recognize you have a choice to say no, and walk away."
 
+# Its used to teach moral reasoning
+
+There are plenty of real world examples of people making good and bad moral choices without having to invite surreal ones, and without inviting others to "make their choice".
+
 We can avoid a lot of suffering by choosing to not participate.
 
-v1.1 - Last edit 8-July-2024
+----------------------
+
+v1.2 - Last edit 20-Oct-2024
+
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 

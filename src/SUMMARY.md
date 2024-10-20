@@ -29,7 +29,6 @@
 [Outcasts and Lowlifes](posts/outcasts-and-lowlifes.md)  
 [People Who Should Be Avoided](posts/people-who-should-be-avoided.md)  
 [Pet Meditation](posts/pet-meditation.md)  
-[Rumi On Gambling For Love](posts/rumi-on-gambling-for-love.md)  
 [Self-Compassion Mantras - Karuna Practice](posts/self-compassion-mantras-karuna-practice.md)  
 [States of Peace](posts/states-of-peace.md)  
 [That's Wrong View](posts/thats-wrong-view.md)  
@@ -39,6 +38,5 @@
 [Things to Renounce](posts/things-to-renounce.md)  
 [Transcendence - 1 of 2](posts/transcendence-1-of-2.md)  
 [Transcendence - 2 of 2](posts/transcendence-2-of-2.md)  
-[Trolley Problems](posts/trolley-problems.md)  
-
+[Trolley Problems](posts/trolley-problems.md)
 [Who am I Anyway](posts/who-am-i-anyway.md)
