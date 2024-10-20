@@ -29,7 +29,7 @@ My questions are ...
 
 Why do we feel compelled to engage?
 
-"I don't do anything"
+"I don't do anything."
 
 "Well, if you do nothing those five people die and it would have been your fault."
 
@@ -57,7 +57,7 @@ Real-life situations are rarely either-or. If a problem appears either-or, I'd i
 
 If someone says "you must comply" know ... what they are really saying is "I hope you don't recognize you have a choice to say no, and walk away."
 
-# Its used to teach moral reasoning
+# (excuse) "Its used to teach moral reasoning, therefore, OK"
 
 There are plenty of real world examples of people making good and bad moral choices without having to invite surreal ones, and without inviting others to "make their choice".
 
