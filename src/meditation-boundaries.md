@@ -1,18 +1,14 @@
-﻿# Do No Harm, and permission to stop
+﻿# Philosophy
 
-If something hurts, you have permission and are encouraged to stop.
+To Relax.
 
-*Let the person reading these instructions, understand at any point, in any context, if you consider yourself *tortured* during a meditation (with a group, in a building, on a retreat, at home), you can and should end it and do something else.
+### Do No Harm
 
-# How much pain?
+Meditation can be uncomfortable, the amount of discomfort I would set as a boundary is hygine discomfort, i.e. as painful as brushing teeth, making a meal, or taking a bath.
 
-**Developed** meditaiton is the most enjoyable human experience.
+If it hurts more than that, I would encourage you to stop.
 
-**Undeveloped** the amount of pain I would set as a boundary is hygine discomfort, i.e. as painful as brushing teeth, or taking a bath.
-
-If it hurts more than that, you have permission and are encouraged to stop.
-
-# How much time
+### How much time
 
 I would pick an amount you view as trivial, these are all valid picks:
 
@@ -22,55 +18,50 @@ I would pick an amount you view as trivial, these are all valid picks:
 - 1 minute
 - etc.
   
-# Posture
+### Posture
 
 The same posture you might use to watch a movie or play a video game.
 
-# Goals
+### Goals
 
 Relief.
 
-# Core Skills
+### Core Skills
 
 - Renunciation, another way to say this is letting go.
 - Kindfulness, the merging of mindfulness with kindness.
 
-# What does letting go mean?
+### What does letting go mean?
 
 - Setting down the past, worrying about that later
 - Setting down the future, worrying about that later
+- Setting down painful emotions 
 
-# Is there a correct way to let go?
+### Is there a correct way to let go?
 
-Yes, using self-compassion.
+Yes, with kindness.
 
-# I tried to stay with the object, but I got distracted.
-
-Use self-compassion to reassure yourself this is normal.
-
-    - "Oh, I was thinking about work, I must be worried about it, but I want to give myself this break"
-    - "I want to do something else, but this is time I'm spending practicing kindness and that's OK."  
-
-# Don't I have to ...
+### Don't I have to ...
 
 No.
 
-# What if I'm not kind to myself?  
+# How to Practice
 
-That's OK. It's practice.
+Two general things ahappening in the mind:
+- Thoughts
+- Awareness
 
-The practice of setting aside some time for relief can be difficult, the only real requirement is the understanding that kindness is the evenutal goal.
+Meditation is learning how to place emphasis on specific mental objects.
 
-We are practicing  _intending_  towards kindness. I feel it's important to practice being nice to ourselves, and for these few moments, we want to  **lower our expectations**, not raise them. A lot of folx expect a lot out of us, constantly, especially ourselves. Meditation is a place where we can really practice being gentle with ourselves.
+### 10 Seconds via Body Awareness
 
--   I gently invite myself to relax.
--   I remind myself it doesn't seem to help to expect anything.
+- Rub your hands togethers
+- Wiggle your toes
+- Pet a soft object (Plushie, Cat, Dog, etc.)
 
-What next?
+Notice the sensation going on -- that's it.
 
-I invite some awareness into my body. I view meditation as a pathway to cultivate self-compassion & self-awareness.
-
--   If I'm calm, or happy, or relaxed. I just ... melt into those things. I don't seek anything else out. I stop and enjoy what is there.
+-
 
 If I'm not in a good starting place (my internal world is chaotic, or noisy, or loud) I find a part of myself I can watch and relax into. These places are called anchors. Think of it like finding a window during a rainstorm to look outside. You are safe inside, looking out onto the rain.
 
@@ -93,23 +84,26 @@ When I find it's too hard to observe, or I notice my thoughts are speeding up, I
   
 **I never repeat a mantra I don't agree with.** I don't want to lie to myself. Pick one (or a few):
 
-    - "May I enjoy spending time with myself."
-    - "May I enjoy practicing kindness with myself."
-    - "May I practice self-compassion."
-    - "May I let go of expectations."
-    - "May I judge myself less."
-    - "May I let go of perfectionism."
-    - "May I enjoy being vs doing."
-    - "May I forgive myself for not understanding."
-    - "May I forgive myself for not being able to forgive myself."
-    - "May I hate myself less."
-    - "May I learn to trust my own sensations."
+- "May I enjoy spending time with myself."
+- "May I enjoy practicing kindness with myself."
+- "May I practice self-compassion."
+- "May I let go of expectations."
+- "May I judge myself less."
+- "May I let go of perfectionism."
+- "May I enjoy being vs doing."
+- "May I forgive myself for not understanding."
+- "May I forgive myself for not being able to forgive myself."
+- "May I hate myself less."
+- "May I learn to trust my own sensations."
 
 _Additional Mantras:_ [Foster's Mantras](https://www.sitwithariadne.com/2021/04/fosters-mantras.html)
 
-## Ending Early 
+# Ending Early
 
-Sometimes I end my meditations early, they are too hard. That's OK too. I usually end a meditation early if I can tell it's making me worse, _faster._ Sometimes afterwards I want to immediately meditate more, so ... I'll just repeat these instructions.  
+Also OK.
+
+I sometimes end early, especially self-guided meditations. I'll try to do some other gentle mindfulness activity like going for a walk.
+ 
 
 -----
 
