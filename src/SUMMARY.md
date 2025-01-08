@@ -1,6 +1,6 @@
-# Author
-
 [Who am I Anyway](who-am-i-anyway.md)
+
+---
 
 # Meditation and Mindfulness
 
