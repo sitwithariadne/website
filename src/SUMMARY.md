@@ -8,6 +8,10 @@
 - [What is Mindfulness](what-is-mindfulness.md)  
 - [How to Pick a Meditation Teacher](how-to-pick-a-meditation-teacher.md)
 
+# Dissociation
+
+- [Dissociation Treatment Targets](dissociation-treatment-targets.md) 
+
 # Meditations
 
 - [Low Or No Spoon Meditation](low-or-no-spoon-meditation.md) 
@@ -23,7 +27,6 @@
 - [Merging Deity Practice with Metta](merging-deity-practice-with-metta.md)
 - [Self-Compassion Mantras - Karuna Practice](self-compassion-mantras-karuna-practice.md)  
 - [Entering the Brahmavihara of Metta Accidentally](entering-the-brahmavihara-of-metta-accidentally.md)  
-- [Ten Fetter Model of Enlightenment](ten-fetter-model-of-enlightenment.md)  
 
 # Parenting
 
@@ -34,14 +37,13 @@
 - [Dr Burns Ten Cognitive Distortions](dr-burns-ten-cognitive-distortions.md)  
 - [Foster's Mantras](fosters-mantras.md)   
 
-# Dissociation
 
-- [Dissociation Treatment Targets](dissociation-treatment-targets.md) 
 
-# Non-Violent Communication
+# Non-Violent Communication & Emotions
 
-- [Things That Aren't Empathy](things-that-arent-empathy.md)  
-- [Emotions](emotions.md)  
+- [States of Peace](states-of-peace.md)  
+- [Emotions](emotions.md)
+- [Things That Aren't Empathy](things-that-arent-empathy.md)
 
 # Groups and Communities
 
@@ -52,7 +54,6 @@
 # Stories
 
 - [The Starfish Story](the-starfish-story.md)  
-- [States of Peace](states-of-peace.md)   
 - [The Narcissist's Prayer](the-narcissists-prayer.md)  
 - [Things to Renounce](things-to-renounce.md)
 - [Good Bad Who Knows](good-bad-who-knows.md)    
