@@ -1,6 +1,10 @@
 ﻿There are a lot of ways to organize and think about feelings, which are internal emotions without words or thoughts. I use a feelings wheel based on NVC (Non-violent Communication).
 
-![image](./images/feelings_wheel.png)
+![Feelings Wheel](images/sitwithariadne-nvc-feelings-wheel.png)
+
+Same as above but a PDF with citation
+
+[NVC Feelings Wheel - PDF](archive/non-violent-communications-feelings-wheel.pdf)
 
 ## Prompting Events for Emotions
 
@@ -65,9 +69,9 @@ Use this list to reason backwards to what emotion was probably felt.
 ### References
 
 [DBT Emotion Regulation Handouts](https://mydoctor.kaiserpermanente.org/ncal/Images/Emotion%20Regulation%20DBT%20Skills%20ADA%2004292020_tcm75-1598999.pdf)  
-[NVC Feelings Wheel  
-](https://ytp.uoregon.edu/sites/ytp2.uoregon.edu/files/Feelings%20Wheel%20in%20PDF.pdf)[Permission to feel](https://www.amazon.com/Permission-Feel-Unlocking-Emotions-Ourselves/dp/1250212847) - Marc Brackett Ph.D  
+
 [Test Your Emotional Intelligence](https://greatergood.berkeley.edu/quizzes/ei_quiz) (Berkley Greater Good)
+
 [NVC Needs Inventory](https://www.nonviolentcommunication.com/wp-content/uploads/2019/07/feelings_needs.pdf)
 
 -----
