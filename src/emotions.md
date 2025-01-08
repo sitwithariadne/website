@@ -95,6 +95,6 @@ Use this list to reason backwards to what emotion was probably felt.
 
 -----
 
-v1.3 12-Jan-2022
+v1.4 8-Jan-2025
 
 This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
