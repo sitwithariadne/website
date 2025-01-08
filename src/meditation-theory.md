@@ -14,21 +14,21 @@
 
 1. Work directly on `identity` and `emotional experiences` using any and all of the following paths:
 
-* art
-* meditation
-* yoga
-* exercise
-* dance
-* improv
-* therapy
-* prayer
-* religion
-* responsible psychedelics
-* mysticism
-* A vocation
-* life purpose
+  * art
+  * meditation
+  * yoga
+  * exercise
+  * dance
+  * improv
+  * therapy
+  * prayer
+  * religion
+  * responsible psychedelics
+  * mysticism
+  * A vocation
+  * life purpose
 
-1.  Use these `interior experiences` with `the-mind` to see how the balance between `serenity` / `suffering` works. 
+1. Unburden `identity` by understanding the balance between `emotional experiences` and `pain`
 
 	- Notice you sometimes have `serenity` when doing `interior skills`.
 	- Notice when not doing the `interior skills` there tends to be more `suffering`.
@@ -39,6 +39,6 @@
 
 -----
 
-v1.5 - Last edit 19-Oct-2024
+v2.0 - Last edit 8-Jan-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
