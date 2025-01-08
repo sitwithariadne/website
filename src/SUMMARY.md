@@ -1,4 +1,5 @@
 [Who am I Anyway](who-am-i-anyway.md)
+[Meditation Is Not a Zero Risk Activity](meditation-is-not-a-zero-risk-activity.md)  
 
 ---
 
@@ -9,7 +10,6 @@
 
 # Meditations
 
-- [Meditation Is Not a Zero Risk Activity](meditation-is-not-a-zero-risk-activity.md)  
 - [Low Or No Spoon Meditation](low-or-no-spoon-meditation.md) 
 - [Mindfulness of Breath - MN 118 Anapanasati](mindfulness-of-breath-mn-118-anapanasati.md)  
 - [Pet Meditation](pet-meditation.md)
@@ -57,10 +57,6 @@
 - [The Narcissist's Prayer](the-narcissists-prayer.md)  
 - [Things to Renounce](things-to-renounce.md)
 - [Good Bad Who Knows](good-bad-who-knows.md)    
-
-# My Experiences
-
-- [Transcendence](transcendence-1-of-2.md)  
 
 # Etc
 
