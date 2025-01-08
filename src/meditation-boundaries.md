@@ -16,11 +16,11 @@ If it hurts more than that, you have permission and are encouraged to stop.
 
 I would pick an amount you view as trivial, these are all valid picks:
 
-* 5 seconds
-* 10 seconds
-* 30 seconds
-* 1 minute
-* etc.
+- 5 seconds
+- 10 seconds
+- 30 seconds
+- 1 minute
+- etc.
   
 # Posture
 
@@ -37,7 +37,8 @@ Relief.
 
 # What does letting go mean?
 
-* Maybe I'm worried about work. For the period of meditaiton I'll use self-compassion to consciously redirect my mind away from work, towards another more wholesome object.
+- Setting down the past, worrying about that later
+- Setting down the future, worrying about that later
 
 # Is there a correct way to let go?
 
@@ -50,15 +51,15 @@ Use self-compassion to reassure yourself this is normal.
     - "Oh, I was thinking about work, I must be worried about it, but I want to give myself this break"
     - "I want to do something else, but this is time I'm spending practicing kindness and that's OK."  
 
+# Don't I have to ...
 
+No.
 
- **"But don't I have to do these things (remain absolutely still -- never think) to meditate?"**
+# What if I'm not kind to myself?  
 
-Kindness towards our sensory universe is what we are practicing, it's a cultivated skill, I don't think we can get it all at once. Part of that is forgiveness, it's OK to make mistakes, to learn, to grow.
+That's OK. It's practice.
 
-## But what if  I'm not kind to myself?  
-
-**That's OK too. We are practicing.**
+The practice of setting aside some time for relief can be difficult, the only real requirement is the understanding that kindness is the evenutal goal.
 
 We are practicing  _intending_  towards kindness. I feel it's important to practice being nice to ourselves, and for these few moments, we want to  **lower our expectations**, not raise them. A lot of folx expect a lot out of us, constantly, especially ourselves. Meditation is a place where we can really practice being gentle with ourselves.
 
@@ -92,17 +93,17 @@ When I find it's too hard to observe, or I notice my thoughts are speeding up, I
   
 **I never repeat a mantra I don't agree with.** I don't want to lie to myself. Pick one (or a few):
 
--   _May I enjoy spending time with myself._
--   _May I enjoy practicing kindness with myself._
--   _May I practice self-compassion._
--   _May I let go of expectations._
--   _May I judge myself less._
--   _May I let go of perfectionism._
--   _May I enjoy being vs doing._
--   _May I forgive myself for not understanding._
--   _May I forgive myself for not being able to forgive myself._
--   *May I hate myself less.*
--   *May I learn to trust my own sensations.*  
+    - "May I enjoy spending time with myself."
+    - "May I enjoy practicing kindness with myself."
+    - "May I practice self-compassion."
+    - "May I let go of expectations."
+    - "May I judge myself less."
+    - "May I let go of perfectionism."
+    - "May I enjoy being vs doing."
+    - "May I forgive myself for not understanding."
+    - "May I forgive myself for not being able to forgive myself."
+    - "May I hate myself less."
+    - "May I learn to trust my own sensations."
 
 _Additional Mantras:_ [Foster's Mantras](https://www.sitwithariadne.com/2021/04/fosters-mantras.html)
 
@@ -112,6 +113,7 @@ Sometimes I end my meditations early, they are too hard. That's OK too. I usuall
 
 -----
 
-v1.4 - Last edit 8-July-2024
+v1.4 - Last edit 8-Jan-2025
+
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
