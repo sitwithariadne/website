@@ -15,7 +15,7 @@
 # Meditation
 
 - [Theory](meditation-theory.md)
-- [Boundaries(meditation-boundaries.md) 
+- [Boundaries](meditation-boundaries.md) 
 - [Mindfulness of Breath - MN 118 Anapanasati](mindfulness-of-breath-mn-118-anapanasati.md)  
 - [Pet Meditation](pet-meditation.md)
 - [Meditation on Sensing Agency](meditation-on-sensing-agency.md)  
