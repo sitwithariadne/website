@@ -1,35 +1,55 @@
-﻿This is a trauma-aware [low spoon](https://en.wikipedia.org/wiki/Spoon_theory)  meditation designed for folx who struggle with meditation.
+﻿# Do No Harm, and permission to stop
 
-### A goal of these instructions are  first, do no harm.
+If something hurts, you have permission and are encouraged to stop.
 
-Our lives are already hard. Meditation can make living easier, via practicing kindness and gentleness.
+*Let the person reading these instructions, understand at any point, in any context, if you consider yourself *tortured* during a meditation (with a group, in a building, on a retreat, at home), you can and should end it and do something else.
 
-**If in doubt, kind it out.**
+# Meditation is difficult, how much *should* it hurt?
 
-(If anything causes stress or thought spirals, don't do it!)
+**Developed** meditaiton is the most enjoyable human experience.
 
-## How much time?
+**Undeveloped** the amount of pain I would set as a boundary is hygine discomfort, i.e. as painful as brushing teeth, or taking a bath.
 
-I would set a timer for a low (what I think as trivial) amount of time. Sometimes I glance at my phone, or ask Alexa to set a timer for me. Sometimes I use a timer app. Sometimes I meditate  _until_  something (like if I'm standing in line, or waiting for something else to happen).  
+If it hurts more than that, you have permission and are encouraged to stop.
+
+# How much time?
+
+I would pick an amount you view as trivial, these are all valid picks:
+
+* 5 seconds
+* 10 seconds
+* 30 seconds
+* 1 minute
+* etc.
   
-I have problems constantly checking the time, so I use a timer. Some folxs hate timers. Do whatever is kindest to yourself.  
-  
-## How do I sit?
- 
-I generally don't worry about posture or what my eyes are doing. Sometimes I keep them open to stay grounded (sensations can become too much) or awake.  
+# Does my body need to be a certain posture?
 
-My base intentions
+The same posture you might use to watch a movie or play a video game.
 
--   To stay in the same spot.
--   To let go of narration and thinking.
+# Whats the goal?
 
-What makes meditation, meditation is learning another way of knowing, besides thinking. We are pretty used to thinking tho so ... If you do these things, that's ok. I say to myself:
+Relief.
 
-"I moved, but that's OK"
+# What is the core skill?
 
-"I thought about something and that's OK."
+Renunciation, another way to say this is letting go.
 
-"I want to do something else, but this is time I'm spending practicing kindness and that's OK."  
+# What does letting go mean?
+
+* Maybe I'm worried about work. For the period of meditaiton I'll use self-compassion to consciously redirect my mind away from work, towards another more wholesome object.
+
+# Is there a correct way to let go?
+
+Yes, using self-compassion.
+
+# I tried to stay with the object, but I got distracted.
+
+Use self-compassion to reassure yourself this is normal.
+
+    - "Oh, I was thinking about work, I must be worried about it, but I want to give myself this break"
+    - "I want to do something else, but this is time I'm spending practicing kindness and that's OK."  
+
+
 
  **"But don't I have to do these things (remain absolutely still -- never think) to meditate?"**
 
@@ -88,7 +108,9 @@ _Additional Mantras:_ [Foster's Mantras](https://www.sitwithariadne.com/2021/04/
 ## Ending Early 
 
 Sometimes I end my meditations early, they are too hard. That's OK too. I usually end a meditation early if I can tell it's making me worse, _faster._ Sometimes afterwards I want to immediately meditate more, so ... I'll just repeat these instructions.  
-  
+
+-----
+
 v1.4 - Last edit 8-July-2024
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 

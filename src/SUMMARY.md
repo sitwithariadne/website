@@ -12,10 +12,10 @@
 
 - [Dissociation Treatment Targets](dissociation-treatment-targets.md) 
 
-# Meditations
+# Meditation
 
-- [Theory](meditation-theory.md)
-- [Low Or No Spoon Meditation](low-or-no-spoon-meditation.md) 
+- [Theory](theory.md)
+- [Defining Meditation](defining-meditation.md) 
 - [Mindfulness of Breath - MN 118 Anapanasati](mindfulness-of-breath-mn-118-anapanasati.md)  
 - [Pet Meditation](pet-meditation.md)
 - [Meditation on Sensing Agency](meditation-on-sensing-agency.md)  
