@@ -42,7 +42,6 @@
 # Non-Violent Communication
 
 [Things That Aren't Empathy](things-that-arent-empathy.md)  
- 
 [Emotions](emotions.md)  
 
 # Groups and Communities
