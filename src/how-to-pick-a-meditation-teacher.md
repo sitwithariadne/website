@@ -27,11 +27,11 @@ Along the same lines as mistakes ... wants, desires, and feelings are an integra
 
 Mistakes, bypassing, transcending, and internal darkness all have one thing in common -- duality. A teacher should have a practice to integrate, validate, manage and holistically accept all parts of themselves.
  
-### Has  emotions  you'd want (happiness, contentment, balance).
+### Has  emotions  you'd want (happiness, contentment, balance)
 
 Are they: Content? Balanced? Harmonious? Happy? Joyous? Equanimous?
   
-### Has a life you understand.
+### Has a life you understand
 
 Does their life seem worth living? You don't have to want to live their lifestyle but ... can you agree with how they live? Can you see the merit in their lifestyle?
 
@@ -49,7 +49,6 @@ If this person knows their stuff, when they share their knowledge, do they arous
 [The Advaita Trap - Confusing the Absolute and the Relative](https://www.youtube.com/watch?v=4KXidr0z1RY)
 
 [How to Identify Narcissists by their actions](https://www.sitwithariadne.com/2021/06/the-narcissists-prayer.html)
-
 
 v1.4 - Last edit 8-Jan-2025 
  
