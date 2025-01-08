@@ -18,9 +18,7 @@
 
 ## References
 
-[Dissociation, Mindfulness, and Creative Meditations: Trauma-Informed Practices to Facilitate Growth]
-
-(https://www.routledge.com/Dissociation-Mindfulness-and-Creative-Meditations-Trauma-Informed-Practices/Forner/p/book/9781138838314) - Christine C. Forner
+[Dissociation, Mindfulness, and Creative Meditations: Trauma-Informed Practices to Facilitate Growth](https://www.routledge.com/Dissociation-Mindfulness-and-Creative-Meditations-Trauma-Informed-Practices/Forner/p/book/9781138838314) - Christine C. Forner
 
 [Dissociation FAQ](https://www.isst-d.org/resources/dissociation-faqs/) - International Society for the Study of Trauma and Dissociation  
 
@@ -36,6 +34,6 @@
 
 -----------------------
 
-v1.4 19-Oct-2024
+v1.5 8-Jan-2025
 
 Works on this page are used under Fair Use.

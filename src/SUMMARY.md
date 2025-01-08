@@ -62,7 +62,6 @@
 
 - [Transcendence - 1 of 2](transcendence-1-of-2.md)  
 - [Transcendence - 2 of 2](transcendence-2-of-2.md)  
-- [Trolley Problems](trolley-problems.md)
 
 # Etc
 
