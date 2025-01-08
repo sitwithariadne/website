@@ -4,7 +4,7 @@ If something hurts, you have permission and are encouraged to stop.
 
 *Let the person reading these instructions, understand at any point, in any context, if you consider yourself *tortured* during a meditation (with a group, in a building, on a retreat, at home), you can and should end it and do something else.
 
-# Meditation is difficult, how much *should* it hurt?
+# How much pain?
 
 **Developed** meditaiton is the most enjoyable human experience.
 
@@ -12,7 +12,7 @@ If something hurts, you have permission and are encouraged to stop.
 
 If it hurts more than that, you have permission and are encouraged to stop.
 
-# How much time?
+# How much time
 
 I would pick an amount you view as trivial, these are all valid picks:
 
@@ -22,17 +22,18 @@ I would pick an amount you view as trivial, these are all valid picks:
 * 1 minute
 * etc.
   
-# Does my body need to be a certain posture?
+# Posture
 
 The same posture you might use to watch a movie or play a video game.
 
-# Whats the goal?
+# Goals
 
 Relief.
 
-# What is the core skill?
+# Core Skills
 
-Renunciation, another way to say this is letting go.
+- Renunciation, another way to say this is letting go.
+- Kindfulness, the merging of mindfulness with kindness.
 
 # What does letting go mean?
 
