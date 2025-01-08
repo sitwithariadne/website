@@ -18,6 +18,8 @@ I hope nothing I've written in this book causes myself or others to come to harm
 
 Email: `sit with ariadne` [at] `gmail` [dot] `com`
 
+-----
+
 v2.4 - Last edit 8-Jan-2025
 
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
