@@ -1,5 +1,24 @@
-﻿(This is part 2, [here is part 1](https://www.sitwithariadne.com/2016/03/transcendence-1-of-2.html))  
-  
+﻿I've been doing zazen for about 2 and a half months. A few days ago, I had either the arising and passing or the full on stream-entry. The kind of thing people go to Burma for.
+
+I remember after I was finished, I hugged Jackie super hard and said it was over. That I had tasted ultimate truth, and it tastes exactly like you think it would.
+
+Zazen is all about transcendence, but they don’t use that term. The goal is to keep your mind on the breath, and the sensation of breathing. Feel the diaphragm move, the lungs fill, the hairs in your nose move with airflow. These sensations are **real**, the most real life can get. No worrying about the past, no worrying about the future, no contemplation of self. Just the sensation of the breath and the body breathing.
+
+
+> If I have a thought about work, I place awareness back on the breath and transcend work.
+> 
+> If I have a thought about self, I place awareness back on the breath and transcend self.
+> 
+> If I have a thought about pain, I place awareness back on the breath and transcend pain.
+
+Little by little I learned to transcend by doing, … everything. Nothing is sacred except the act of breathing, and the end of Zen is to … transcend the awareness of the breath itself.
+
+The other day, I was really into it. The feeling following the breath is like trying to lock onto a signal the universe sends out. Trying to follow the breath, to be aware of the breath is hard, because being aware of the breath modifies it. This is subject-object duality. “I am breathing.”
+
+The goal isn’t to follow the breath, but to become breath ... for the sensation of breath to become everything.
+
+Anyway, I was doing this for a bit, getting very into the breath, and there is this peculiar sensation like following a sine wave ... 
+
 … and being slightly out of phase with it. I locked onto the phase and frequency of breathing, so it was no longer a discontinuous entity.  
   
 Then something strange happened, I was no longer aware of anything, breathing or otherwise. For a split second, the smallest instant, there was perfect quiet. It must have been on a down breath.  
@@ -25,10 +44,12 @@ Daniel Ingram, to his credit, made a very good map, but it isn’t a Zen map. I 
 I’m grateful I didn’t do Mahasi Sayadaw style noting. I don’t want to break reality into individual sensations (although I’m immensely aware that all reality can be is sensations) and I’m OK with not perceiving individual vibrations (this seems like such a useful skill, lol, not really). Instead what I did was whenever I had a thought, I would go “this isn’t me, this is impermanent, and it won’t satisfy” and immediately went back to noting the sensations of the breath.  
   
 
-## References
+# References
 
 [Practicing with Our Breathing - Josho Pat Phelan](https://www.chzc.org/Pat1.htm)
-[Opening the Hand of Thought](https://wisdomexperience.org/product/opening-hand-thought/)
-[Zen Mind, Beginners Mind](https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation/dp/1590308492)
-[Sutta Pitaka's list of ten fetters](https://en.wikipedia.org/wiki/Fetter_(Buddhism))
 
+[Opening the Hand of Thought](https://wisdomexperience.org/product/opening-hand-thought/)
+
+[Zen Mind, Beginners Mind](https://www.amazon.com/Zen-Mind-Beginners-Informal-Meditation/dp/1590308492)
+
+[Sutta Pitaka's list of ten fetters](https://en.wikipedia.org/wiki/Fetter_(Buddhism))
