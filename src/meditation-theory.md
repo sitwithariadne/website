@@ -1,44 +1,31 @@
-﻿1. Feel `pain.`
+﻿# Terms
 
-1. Develop faith to understand others around have developed `pain management` as a skill. 
+* **Self-Compassion** is the ability to be nice to ourselves. I think of as unconditional positive regard, or unconditional kindness.
 
-1. Develop faith to understand others around you have developed `self-compassion` as a skill.
+* **Mindfulness** is the ability to see things as they are, by practicing attentiveness.
+
+# Pathway
+
+1. Feel `pain`.
+
+1. Desire `less pain`.
+
+1. See others with `less pain`.
+
+1. Copy the strategies of another with `less pain`.
+
+1. As pain is reduced, see that `less pain` is preceeded by `self-compassion`.
  
 1. Desire and cultivate `self-compassion`.
 
-1. Using `self-compassion` understand the desire for less pain is compasionate.
+1. As pain is reduced, see that `less pain` is preceed by `mindfulness`.
 
-1. Develop `mindfulness` to see that `pain` is related to `pain management`
+1. Desire and cultivate `mindfulness`.
 
-1. Develop `mindfulness` to see that `pain management` is tied to `identity` and `emotional experiences`
-
-1. Work directly on `identity` and `emotional experiences` using any and all of the following paths:
-
-  * art
-  * meditation
-  * yoga
-  * exercise
-  * dance
-  * improv
-  * therapy
-  * prayer
-  * religion
-  * responsible psychedelics
-  * mysticism
-  * A vocation
-  * life purpose
-
-1. Unburden `identity` by understanding the balance between `emotional experiences` and `pain`
-
-	- Notice you sometimes have `serenity` when doing `interior skills`.
-	- Notice when not doing the `interior skills` there tends to be more `suffering`.
-
-1. Notice how `the-mind` can fall into `suffering`. Practice getting it back into `serenity`. Discover that the process is very cause-and-effect (`dependencies`).
-
-1. Train `the-mind` to default to  `serenity`. Practice attaining and staying in `serenity`.
+1. Develop and Direct `mindfulness` and `self-compassion` towards `less pain`
 
 -----
 
-v2.0 - Last edit 8-Jan-2025
+v2.1 - Last edit 8-Jan-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
