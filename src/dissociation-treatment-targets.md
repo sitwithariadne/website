@@ -24,7 +24,7 @@
 
 [Guidelines for Treating Dissociative Identity Disorder in Adults (2011)](https://www.isst-d.org/resources/adult-treatment-guidelines/) - International Society for the Study of Trauma and Dissociation
 
-[Understanding Integration](https://www.sidran.org/wp-content/uploads/2018/11/Understanding-Integration.pdf) - Sidran Institute
+[Understanding Integration](./archive/Understanding-Integration.pdf) - Rachel Downing, LCSW © 2003 Sidran Institute.
 
 [Dissociative Experiences Scale - II (DES-II)](https://docs.google.com/spreadsheets/d/1z7_VWQ6YS-vPrymQgS0cyziKKCJN6I6G7IEvfIdJ4hE/edit?usp=sharing) - For printing and laminating
 
