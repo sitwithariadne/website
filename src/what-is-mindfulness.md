@@ -1,4 +1,4 @@
-﻿I'm reading  [Dissociation, Mindfulness, and Creative Meditations.](https://www.amazon.com/Dissociation-Mindfulness-Creative-Meditations-Christine/dp/1138838314)  
+﻿From [Dissociation, Mindfulness, and Creative Meditations](https://www.routledge.com/Dissociation-Mindfulness-and-Creative-Meditations-Trauma-Informed-Practices-to-Facilitate-Growth/Forner/p/book/9781138838314)
   
 This part is verbatim (page 2):  
 
@@ -51,7 +51,7 @@ I have reworded and remixed what follows as Mindfulness Targets.
 
 ---------------------------
 
-v1.3 19-Oct-2024
+v1.4 8-Jan-2025
 
 Referenced works are the copyrights of their respective owners. 
 
