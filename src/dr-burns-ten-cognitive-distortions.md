@@ -76,6 +76,11 @@ Stuff beyond our control happens, but to personalize blame, someone must be resp
 
 **Personalization and Blame** seek to assign cause and morality to everything.
 
-  
 ### References
 [Cognitive Distortions List](https://arfamiliesfirst.com/wp-content/uploads/2013/05/Cognitive-Distortions.pdf)
+
+-----
+
+v1.1- Last edit 8-Jan-2025
+
+This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

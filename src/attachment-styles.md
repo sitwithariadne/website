@@ -94,5 +94,8 @@ These items are unchanged and appear on page 108 of the above text.
  - Defensive aggression and helplessness
 - Inability to elicit desired responses
 
+-----
+
 v1.1 7-Mar-2022
+
 These materials are the copyright of the respective owners.

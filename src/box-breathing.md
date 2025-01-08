@@ -26,7 +26,7 @@ If this makes things worse, as always, it's OK to stop.
 
 I've been using it on and off the last few days and it's brought me some relief, so I wanted to share it.
 
--------------------------------
+-----
 
 v1.3 - Last edit 19-Oct-2024
 

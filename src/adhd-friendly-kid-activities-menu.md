@@ -57,7 +57,8 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 ## Excursions
 - [ ] Planetarium, Museum, Trampoline Park, etc.
 
--------------------------
+-----
+
 v1.2 - Last edit 19-Oct-2024
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)

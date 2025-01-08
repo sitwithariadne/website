@@ -14,7 +14,7 @@
 
 8. Train `the-mind` to default to  `serenity`. Practice attaining and staying in `serenity`.
 
------------------------
+-----
 
 v1.5 - Last edit 19-Oct-2024
 

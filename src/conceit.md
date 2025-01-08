@@ -40,7 +40,7 @@ Parts of my experience are similar to others. Maybe I hear someone relate a part
 
 I've been practicing telling myself, "I am similar but not the same. I don't know this person's circumstances unless they tell me. I must be careful of my projections onto them."
 
--------------------
+-----
 
 v1.1 19-Oct-2024
 

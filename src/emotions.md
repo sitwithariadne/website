@@ -1,24 +1,6 @@
 ﻿There are a lot of ways to organize and think about feelings, which are internal emotions without words or thoughts. I use a feelings wheel based on NVC (Non-violent Communication).
 
-Two groups of six: needs being met, needs not being met.
-
-**Needs Met**
-
-* Pride (Self-Confidence, Self-Esteem, Encouraged, Powerful)  
-* Joy (Happy, Ecstatic, Excited, Grateful)  
-* Intrigue (Engaged, Fascinated, Entranced, Energetic)  
-* Trust (Assured, Hopeful, Secure, Confident)  
-* Love (Affectionate, Adoration, Connected, Caring)  
-* Peace (Content, Relaxed, Tranquil, Harmonious)
-
-**Needs Not Met**
-
-* Anger (Frustrated, Annoyed, Envious, Mad)  
-* Disgust (Averse, Apathetic, Repulsive, Contempt)  
-* Fear (Insecure, Anxious, Vulnerable, Scared)  
-* Surprise (Astonished, Distracted, Startled, Overwhelmed)  
-* Sadness (Depressed, Pain & Hurt, Grief & Sorrow, Unhappy)  
-* Shame (Awkward, Guilty, Embarrassed, Humiliation)
+![image](./images/feelings_wheel.png)
 
 ## Prompting Events for Emotions
 
@@ -79,8 +61,6 @@ Use this list to reason backwards to what emotion was probably felt.
 `Shame` Urge towards silence. You risk being abandoned by a group if characteristics of yourself or of your behavior are made public.
 `Guilt` Your own behavior violates your own values or moral code.
 
-v1.3 12-Jan-2022
-
 
 ### References
 
@@ -89,3 +69,9 @@ v1.3 12-Jan-2022
 ](https://ytp.uoregon.edu/sites/ytp2.uoregon.edu/files/Feelings%20Wheel%20in%20PDF.pdf)[Permission to feel](https://www.amazon.com/Permission-Feel-Unlocking-Emotions-Ourselves/dp/1250212847) - Marc Brackett Ph.D  
 [Test Your Emotional Intelligence](https://greatergood.berkeley.edu/quizzes/ei_quiz) (Berkley Greater Good)
 [NVC Needs Inventory](https://www.nonviolentcommunication.com/wp-content/uploads/2019/07/feelings_needs.pdf)
+
+-----
+
+v1.3 12-Jan-2022
+
+This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
