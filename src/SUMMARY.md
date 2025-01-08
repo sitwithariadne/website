@@ -14,6 +14,7 @@
 
 # Meditations
 
+- [Basic Sequence](basic-sequence.md)
 - [Low Or No Spoon Meditation](low-or-no-spoon-meditation.md) 
 - [Mindfulness of Breath - MN 118 Anapanasati](mindfulness-of-breath-mn-118-anapanasati.md)  
 - [Pet Meditation](pet-meditation.md)
@@ -32,7 +33,7 @@
 
 - [ADHD Friendly Kid Activities Menu](adhd-friendly-kid-activities-menu.md)  
 - [Attachment Styles](attachment-styles.md)  
-- [Basic Sequence](basic-sequence.md)  
+
 - [Conceit](conceit.md)  
 - [Dr Burns Ten Cognitive Distortions](dr-burns-ten-cognitive-distortions.md)  
 - [Foster's Mantras](fosters-mantras.md)   
