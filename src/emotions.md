@@ -2,7 +2,7 @@
 
 The ability to feel emotions is double-edged, there are pleasant and unpleasant emotions.
 
-I use Non-Violent Communication, which puts emotions into two groups
+There are lots of ways to conceptalize emotions, the system I use is Non-Violent Communications which puts emotions into two main groups.
 
 ![Feelings Wheel](images/sitwithariadne-nvc-feelings-wheel.png)
 
@@ -55,14 +55,22 @@ Use this list to reason backwards to what emotion was probably felt.
 
 - An important goal is blocked or a desired activity is interrupted or prevented.
 - You/Your-group/Someone-you-care-about is offended/insulted/attacked/hurt/threatened.
-  - `Envy` - Someone-else/group gets/has things you want/need/crave.
-  - `Jealousy` - A very important and desired relationship or object in your life is in danger of being damaged or lost.
+  - `Envy` Someone-else/group gets/has things you want/need/crave.
+  - `Jealousy` A very important and desired relationship or object in your life is in danger of being damaged or lost.
 
 **Disgust** or repulsion
 
-- Someone/Something/A-group you are in contact with could poison/contaminate/harm you/your-group.
+- `Nauseous` tasting something you do not want to swallow
+- `Sickened` observing something that violates your core values
+- `Contempt` Something or someone fails to meet a personal standard
 
 **Fear** or threatened
+
+- `Anxious` a new or unfamiliar situation.
+- `Vulnerable` be at the mercy of someone else (walking home alone).
+- `Scared` being in the dark.
+- `Helpless` being in a bad situation with no percieved ability to control it.
+- `Terrified` being in a bad situation with a percieved likelyhood of injury or death.
 
 - There is a threat to your life/health/well-being of you or someone you care about.
 
@@ -72,13 +80,16 @@ Use this list to reason backwards to what emotion was probably felt.
 
 **Sadness** or loss
 
-- You have lost something or someone permanently.
-- Things are not the way you wanted or expected and hoped them to be.
+- `Hurt` being rejected or excluded.
+- `Discouraged` hearing about future difficulty.
+- `Heartbreak` a relationship ending.
+- `Grief` death of a loved one.
+- `Hopeless` believing you will not get what you need in your life.
 
 **Shame** or self-judgement
 
 - `Shame` Urge towards silence. You risk being abandoned by a group if characteristics of yourself or of your behavior are made public.
-- `Guilt` Your own behavior violates your own values or moral code.
+- `Guilt` Your own behavior violates your own values or moral code
 
 ### References
 
