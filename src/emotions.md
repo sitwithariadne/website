@@ -4,15 +4,15 @@ The ability to feel emotions is double-edged, there are pleasant and unpleasant 
 
 I use Non-Violent Communication, which puts emotions into two groups
 
+![Feelings Wheel](images/sitwithariadne-nvc-feelings-wheel.png)
+
+[Same as above but a PDF with citation](archive/non-violent-communications-feelings-wheel.pdf)
+
 ## Needs Met
 * Pride, Joy, Intrigue, Trust, Love, Peace
 
 ## Needs Unmet
-* Anger, Disgust, Fear, Surprise, Sadness, Shame`
-
-![Feelings Wheel](images/sitwithariadne-nvc-feelings-wheel.png)
-
-[Same as above but a PDF with citation](archive/non-violent-communications-feelings-wheel.pdf)
+* Anger, Disgust, Fear, Surprise, Sadness, Shame
 
 ## Prompting Events for Emotions
 
@@ -45,7 +45,7 @@ Use this list to reason backwards to what emotion was probably felt.
   - `Affectionate` The urge to take care of someone/something to get more love.
   - `Reverance` The urge to worship someone/something as they are viewed as godly/divine/perfect.
 
-**Peace** or acceptance**
+**Peace** or acceptance
 
 - Events occurring should keep occurring as they are.
 
