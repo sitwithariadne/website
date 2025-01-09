@@ -1,4 +1,7 @@
-﻿# Philosophy
+﻿This is a work-in-progress
+
+
+# Philosophy
 
 To Relax.
 
@@ -24,7 +27,8 @@ The same posture you might use to watch a movie or play a video game.
 
 ### Goals
 
-Relief.
+- Relief
+- Staying with a neutral or positive object
 
 ### Core Skills
 
@@ -47,29 +51,58 @@ No.
 
 # How to Practice
 
-Two general things ahappening in the mind:
+Two general things are usually in the mind:
+
 - Thoughts
 - Awareness
 
-Meditation is learning how to place emphasis on specific mental objects.
+Meditation is learning how to place emphasis on specific mental objects for benefit.
 
-### 10 Seconds via Body Awareness
+### Awareness of the Body via Touch
 
-- Rub your hands togethers
-- Wiggle your toes
-- Pet a soft object (Plushie, Cat, Dog, etc.)
+- Rub your hands together
+- Wiggling toes
+- Petting a soft object (Plushie, Cat, Dog, etc.)
 
-Notice the sensation going on -- that's it.
+### Awareness of the Body via Breath
 
--
+- To gain awareness of the breath, vary your speed
+- Practice letting go of control of the breath
 
-If I'm not in a good starting place (my internal world is chaotic, or noisy, or loud) I find a part of myself I can watch and relax into. These places are called anchors. Think of it like finding a window during a rainstorm to look outside. You are safe inside, looking out onto the rain.
+### Awareness of the Mind via Imagination
 
--   Sometimes it's the breath. I like to take nice slow breaths (it slows down thoughts).
--   Sometimes it's the mind thinking things. I don't stop the thoughts, I intend to just watch them, like rain.
--   Sometimes it's body posture. I gently notice how I'm holding the body.
--   Sometimes it's emotions. I don't try to control them, just watch them unfold.
--   Sometimes it's tingles or body sensations. I don't try and control or even understand. Just watch.
+- Visualize a nature scene (a flower, a beach, a sunset)
+- Visualize something simple (blue mist)
+
+### Awareness of the Mind via Recollection
+
+- Remember a nice place you visited
+- Remember a nice person you interacted with
+
+### Awareness of the Mind via Deeds
+
+- Remember a time you did a good deed
+
+### Awareness of the Mind via Mantra
+
+These are very good for early meditaiton work to cultivate conditions we don't have.
+
+I would encourage conversational pace, like talking to a friend. Put a pause of 3 seconds on the end, for time to feel an emotion that could arise.
+
+I put (and recommend) "may" in front of these so they don't involve force.
+
+- "May I be OK with stuff being in awareness"
+- "May I enjoy spending time with myself."
+- "May I enjoy practicing kindness with myself."
+- "May I let go of being a perfectionist."
+- "May I be OK with mistakes."
+- "May I judge myself less."
+- "May I forgive myself for not understanding."
+- "May I forgive myself for not being able to forgive myself."
+- "May I hate myself less."
+- "May I learn to trust my own sensations."
+
+### 
 
 If pleasant sensations (like calm, or happiness or relaxation) appear doing the above, I savor them, then I try and remember what I did to reach this pleasant state. The danger is thinking repeating the exact same steps works, every time. That's what makes this practice, learning what works and what doesn't with kindness.
 
