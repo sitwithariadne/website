@@ -1,6 +1,14 @@
-﻿There are a lot of ways to organize and think about feelings, which are internal emotions without words or thoughts. 
+﻿[Emotions](https://en.wikipedia.org/wiki/Emotion#Definitions) are felt experiences, contrasted with [dissocation](https://en.wikipedia.org/wiki/Dissociation_(psychology)), and [emptiness](https://en.wikipedia.org/wiki/Emptiness).
 
-I use a feelings wheel based on NVC (Non-violent Communication).
+The ability to feel emotions is double-edged, there are pleasant and unpleasant emotions.
+
+I use Non-Violent Communication, which puts emotions into two groups
+
+## Needs Met
+* Pride, Joy, Intrigue, Trust, Love, Peace
+
+## Needs Unmet
+* Anger, Disgust, Fear, Surprise, Sadness, Shame`
 
 ![Feelings Wheel](images/sitwithariadne-nvc-feelings-wheel.png)
 
@@ -12,63 +20,62 @@ Use this list to reason backwards to what emotion was probably felt.
 
 ### Needs Met 
 
-**Proud (self-acceptance)**
+**Pride** or self-acceptance
 
 - `Effectual` An activity you value was performed well.
 - `Encouraged` Someone you trust/value gave you a positive appraisal.
 
-**Joyful (gain)**
+**Joy** or gain
 
 - You've gained something.
 - A need has been met.
 
-**Intrigued (attentive)**
+**Intrigue** or attentiveness
 
 - Paying close attention leads towards positive emotions.
 
-**Trusting (security)**
+**Trust** or security
 
 - Associating with someone/something could lead toward getting a need met.
 
-**Loving (attractive)**
+**Love** or attractiveness
 
 - Loving a person, animal, or object enhances quality of life for you or for those you care about.
 - Loving a person, animal, or object increases your chances of attaining your own personal goals.
   - `Affectionate` The urge to take care of someone/something to get more love.
   - `Reverance` The urge to worship someone/something as they are viewed as godly/divine/perfect.
 
-**Peaceful (acceptance)**
+**Peace** or acceptance**
 
 - Events occurring should keep occurring as they are.
 
-
 ### Needs Not Met
 
-**Anger (judgement)** 
+**Anger** or judgement
 
 - An important goal is blocked or a desired activity is interrupted or prevented.
 - You/Your-group/Someone-you-care-about is offended/insulted/attacked/hurt/threatened.
   - `Envy` - Someone-else/group gets/has things you want/need/crave.
   - `Jealousy` - A very important and desired relationship or object in your life is in danger of being damaged or lost.
 
-**Disgust (repulsion)** 
+**Disgust** or repulsion
 
 - Someone/Something/A-group you are in contact with could poison/contaminate/harm you/your-group.
 
-**Afraid (threatened)**
+**Fear** or threatened
 
 - There is a threat to your life/health/well-being of you or someone you care about.
 
-**Surprise (caught off guard)**
+**Surprise** or caught off guard
 
 - Paying close attention could prevent negative emotions.
 
-**Sadness (loss)** 
+**Sadness** or loss
 
 - You have lost something or someone permanently.
 - Things are not the way you wanted or expected and hoped them to be.
 
-**Ashamed (self-judgement)**
+**Shame** or self-judgement
 
 - `Shame` Urge towards silence. You risk being abandoned by a group if characteristics of yourself or of your behavior are made public.
 - `Guilt` Your own behavior violates your own values or moral code.
