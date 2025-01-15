@@ -4,24 +4,14 @@ I used links from Sutta Central.
 
 The "main" books in the canon are the four Nikāya, or *Volumes.* This is where the core teachings live.
 
-| Abbreviation   | Pali Title                                      | English Title                     | 
-| -------------- | ----------------------------------------------- | -----------------------           | 
-| **DN**         | [Dīgha Nikāya](https://suttacentral.net/dn)     | Long Discourses                   |                           
-| **MN**         | [Majjhima Nikāya](https://suttacentral.net/mn)  | Middle Discourses                 |
-| **SN**         | [Saṁyutta Nikāya](https://suttacentral.net/sn)  | Linked/Connected Discourses       | 
-| **AN**         | [Aṅguttara Nikāya](https://suttacentral.net/an) | Numbered Discourses               |
+| Abbreviation   | Pali Title                                      | English Title                                | 
+| -------------- | ----------------------------------------------- | -------------------------------------------- | 
+| **DN**         | [Dīgha Nikāya](https://suttacentral.net/dn)     | Long **D**iscourses                          |                           
+| **MN**         | [Majjhima Nikāya](https://suttacentral.net/mn)  | **M**iddle Discourses                        |
+| **SN**         | [Saṁyutta Nikāya](https://suttacentral.net/sn)  | (**S**ets) Linked/Connected Discourses       | 
+| **AN**         | [Aṅguttara Nikāya](https://suttacentral.net/an) | Numbered Discourses (**A**nother Thing       |
 
-## Books
-
-DN is **D**ialogs, big expositions, that explain large parts, all at once.
-
-MN is **M**iddle length, teachings that are shorter.
-
-SN is **S**ets of themes, teachings are linked by theme.
-
-AN is the **A**nother thing (!?) book, here lives numbered lists of things to do, or not do.
-
-## Minor Volume
+## Minor Volumes
 
 The last Nikāya, the Khuddaka is called the "Minor" volume. It has a lot of short collections. Here are a few.
 
