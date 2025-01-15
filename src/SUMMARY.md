@@ -56,6 +56,10 @@
 - [Things to Renounce](things-to-renounce.md)
 - [Good Bad Who Knows](good-bad-who-knows.md)    
 
+# Theravada Buddhism
+
+- [Sutta Pitaka](sutta-pitaka.md)
+
 # Etc
 
 - [My Current Recommendations](my-current-recommendations.md) 
