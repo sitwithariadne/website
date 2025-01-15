@@ -59,6 +59,7 @@
 # Theravada Buddhism
 
 - [Sutta Pitaka](sutta-pitaka.md)
+- [Stream Entry Fruit](stream-entry-fruit.md)
 
 # Etc
 
