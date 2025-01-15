@@ -59,6 +59,7 @@
 # Theravada Buddhism
 
 - [Sutta Pitaka](sutta-pitaka.md)
+- [A Friend](a-friend.md)
 - [Stream Entry Fruit](stream-entry-fruit.md)
 
 # Etc
