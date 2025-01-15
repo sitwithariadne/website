@@ -2,18 +2,18 @@ I used links from Sutta Central.
 
 ## Sutta Piṭaka (Basket of Teachings)
 
-The "main" books in the canon are the four Nikāya, or *Volumes.* This is where the core teachings live.
+The main books in the canon are the four Nikāya, or *Volumes.*
 
 | Abbreviation   | Pali Title                                      | English Title                                | 
 | -------------- | ----------------------------------------------- | -------------------------------------------- | 
 | **DN**         | [Dīgha Nikāya](https://suttacentral.net/dn)     | Long **D**iscourses                          |                           
 | **MN**         | [Majjhima Nikāya](https://suttacentral.net/mn)  | **M**iddle Discourses                        |
-| **SN**         | [Saṁyutta Nikāya](https://suttacentral.net/sn)  | (**S**ets) Linked/Connected Discourses       | 
-| **AN**         | [Aṅguttara Nikāya](https://suttacentral.net/an) | Numbered Discourses (**A**nother Thing       |
+| **SN**         | [Saṁyutta Nikāya](https://suttacentral.net/sn)  | (**S**ets of) Linked/Connected Discourses    | 
+| **AN**         | [Aṅguttara Nikāya](https://suttacentral.net/an) | Numbered Discourses (**A**nother Thing)      |
 
 ## Minor Volumes
 
-The last Nikāya, the Khuddaka is called the "Minor" volume. It has a lot of short collections. Here are a few.
+The last Nikāya, the Khuddaka is called the "Minor" volume. It has short collections.
 
 | Abbreviation   | Pali Title                                                             | English Title                             | 
 | -------------- | ---------------------------------------------------------------------  | ----------------------------------------- | 
