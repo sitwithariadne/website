@@ -35,6 +35,8 @@ There are a lot of books here about Trauma. My understanding is trauma is betwee
 
 **Boundless Heart** - Christina Feldman
 
+-----
+
 v1.2 - Last edit 15-Jan-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
