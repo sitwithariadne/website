@@ -27,7 +27,7 @@ The person in whom
 these things are found is your friend. 
 
 If you want to have a friend, 
-you should keep company with such a person.” 
+you should keep company with such a person.
 ```
 
 AN [7.36](https://suttacentral.net/an7.36/en/sujato?lang=en&layout=plain) - A Friend (1st)
