@@ -5,7 +5,7 @@
 1. Endures what is hard to endure
 1. Reveal their secrets to you
 1. Keeps your secrets
-1. Does not abandon you in times trouble
+1. Does not abandon you in times of trouble
 1. Do not look down on you in times of loss
 
 ## In Verse form
@@ -34,6 +34,6 @@ AN [7.36](https://suttacentral.net/an7.36/en/sujato?lang=en&layout=plain) - A Fr
 
 -----
 
-v1.1 15-Jan-2025
+v1.2 15-Jan-2025
 
 This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
