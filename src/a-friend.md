@@ -1,28 +1,36 @@
 # A Friend
+
+1. Gives what is hard to give
+1. Does what is hard to do
+1. Endures what is hard to endure
+1. Reveal their secrets to you
+1. Keeps your secrets
+1. Does not abandon you in times trouble
+1. Do not look down on you in times of loss
+
+## In Verse form
+
 ```
-    (1) They give what is beautiful,
-        hard to give,
+A friend gives what is hard to give, 
+and does what’s hard to do. 
 
-    (2) does what is hard to do,
+They put up with your harsh words, 
+and with things hard to endure.
 
-    (3) endures painful, ill-spoken words.
+They tell you their secrets, 
+and keep your secrets for you. 
 
-    (4) Their secrets they tell you,
-        your secrets they keep.
+They don’t abandon you in times of trouble, 
+or look down on you in times of loss.
 
-    (6) When misfortunes strike,
-        They don't abandon you;
+The person in whom 
+these things are found is your friend. 
 
-    (7) When you're down & out,
-        doesn't look down on you.
-
-A person in whom these traits are found,
-is a friend to be cultivated
-by anyone wanting a friend.
+If you want to have a friend, 
+you should keep company with such a person.” 
 ```
 
-AN 7.35
-<https://www.accesstoinsight.org/tipitaka/an/an07/an07.035.than.html>
+AN [7.36](https://suttacentral.net/an7.36/en/sujato?lang=en&layout=plain) - A Friend (1st)
 
 -----
 
