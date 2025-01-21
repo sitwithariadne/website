@@ -69,26 +69,24 @@ Guiding others practices ... is there enough mindfulness and attentiveness to un
 # These groups are at risk for harm
 I've seen these groups struggle most. **It is by no means definitive.** 
 
-### Self-loathing[^4]
+### Self-loathing
 Inability to meditate is frequently tied to moral agency, and seen as a personal failing.
 
-[^4]: Can lead to shame-anger-rage spirals.
+__**Difficulty meditating is not a moral failing.**__
+
 
 ### Traumatized
 Quiet introspection can lead to flashbacks.
 
-### Dissociative[^5]
+### Dissociative
 Difficult emotions, unfamiliar tasks, and pressures can lead to dissociation.
 
-[^5]: Especially insidious because it can look like meditation. People who dissociate tend to be very quiet (nonverbal). To communicate to someone dissociative, ask if people would like to write down their thoughts and feelings.
+Especially insidious because it can look like meditation. People who dissociate tend to be very quiet (nonverbal). To communicate to someone non-verbal, ask if they would like to write down their thoughts and feelings.
 
-### Low Dopamine - ADHD[^6]
+### Low Dopamine - ADHD
 Failure to sit still, and/or pay attention.
 
-[^6]: The texts call this restlessness. I call it a dopamine shortfall. Meditation is easier with movement, music, interesting sensory objects, medication, and/or caffeine.
-
-
-
+Religious texts group this under "restlessness." Western medicine knows it as a dopamine shortfall. Meditation is easier with movement, music, interesting sensory objects, medication, and/or caffeine.
 
 # Metta is Especially Dangerous
 
@@ -99,37 +97,57 @@ This is a well-intentioned and bright practice. I'm familiar with it from Buddhi
 
 Those without the above prerequisites are in danger.
 
-
-
-## A Typical Metta failure:[^7]
+## A Typical Metta failure:
 
 1. Someone is told to direct their attention towards feelings of love and kindness.
-2. They cannot.
-3. As they continuously fail to arouse these feelings, **much darker feelings are aroused.**
+1. They cannot.
+1. As they continuously fail to arouse these feelings, **much darker feelings are aroused.**
 
-[^7]: Metta is one of my favorite targets, but also the most fickle for me. I have a trauma and dissociative background, I had to learn this stuff to sort dissociation from meditation.
 
-Categories of feelings they might feel instead (an incomplete list!):
-* Anger
-	* Self-hatred.
-* Disgust
-	* Contempt
-* Fear
-	* Helpless, insecure, anxious, vulnerable.
-* Surprise
-	* Shock, overwhelm, confusion
-* Sadness
-	* Depressed, hopeless, miserable, despair, heartbroken
-* Shame
-	* Self-conscious, chagrin[^8], humiliation. 
+### Categories of feelings they might feel instead (an incomplete list!):
 
-[^8]: This is the feeling felt when someone said "I feel like a failure." That's chagrin.
+##### Anger
+* Self-hatred
 
-Specific feelings that can lead to suicidal ideation:
-* Fear - helpless, vulnerability
-* Sadness - hopelessness, despair[^9]
+##### Disgust
+* Contempt
 
-[^9]: I have felt everything on this list first-hand. I have contemplated suicide from failed  Metta sessions. I know others who have also contemplated suicide from failed Metta sessions.
+##### Fear
+* Helpless
+* Insecure
+* Anxious 
+* Vulnerable
+
+##### Surprise
+* Shock
+* Overwhelm
+* Confusion
+
+##### Sadness
+* Depressed
+* Hopeless
+* Miserable
+* Fatigued
+* Despair
+* Heartbreak
+
+##### Shame
+* Self-conscious
+* Embarassment
+* Humiliation
+* Awkward
+* Chagrin
+
+### Specific feelings that can lead to suicidal ideation
+When two specific feelings combine, they lead directly to suicidal ideation
+
+##### Fear
+* Hopeless
+
+##### Sadness
+* Despair
+
+> I have felt everything on this list first-hand. I have contemplated suicide from failed Metta sessions. I know others who have also contemplated suicide from failed Metta sessions.
 
 # Recommended Materials
 
@@ -149,10 +167,12 @@ Specific feelings that can lead to suicidal ideation:
 [First Do No Harm: Foundational Competencies for Working Skillfully with Meditation-Related Challenges](https://www.cheetahhouse.org/fdnh) - 3-Day Meditation Safety Training for MBSR/CT teachers
 
 ### My Links
-[Dissociation Treatment Targets](https://www.sitwithariadne.com/2021/06/dissociation-treatment-targets.html)
+[Dissociation Treatment Targets](dissociation-treatment-targets.md)
 
-[What is Mindfulness?](https://www.sitwithariadne.com/2021/03/what-is-mindfulness-christine-forner.html)
+[What is Mindfulness?](what-is-mindfulness.md)
 
-**redirect:** sitwithariadne.com/meditation-is-not-zero-risk
-v1.1 - Last edit 8-July-2024
+-----
+
+v2.1 - Last edit 21-Jan-2025
+
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
