@@ -1,57 +1,70 @@
 ﻿Practicing, guiding, teaching, and/or suggesting meditation involves risk.
 
-The big risks are: suicide, suicidal ideation, self-harm, flashbacks, dissociation, changes in behavior, changes in relationships, changes at work ... all kinds of human behavior. It is difficult to predict what a practice can uncover or reveal. 
+The big risks are: suicide, suicidal ideation, self-harm, flashbacks, dissociation, changes in behavior, ... all kinds of human behavior. It is difficult to predict what a practice can uncover, reveal, or dismantle. 
 
 Meditation can arouse difficult feelings, memories, and awareness. In our culture of self-reliance, the things brought to the surface can deeply hurt us, without the support of others. 
 
 This is one of the reasons a teacher is frequently recommended: to identify when support is needed, and provide it.
 
 # First, Do No Harm
-I think meditation is best when it doesn't add to our existing pain.
+I think meditation is not intended to harm us.
 
- A framework of **First, Do No Harm** will have clear boundaries around when to stop a session.
+A framework of **First, Do No Harm** will have clear boundaries around when to stop a session.
 
 ### Ariadne's Stopping Points
-* Emotions associated with self-harm.
-	* Hopelessness, helplessness, despair[^1]
-* Dissociation[^2]
+**Emotions associated with self-harm.**
+* Hopelessness, helplessness, despair
+* Dissociation
 * Flashbacks
 * Chest pain
-
-[^1]: When I have these emotions I'm in either distress or crisis. See the below charts.
-[DBT Crisis Skills](https://www.sitwithariadne.com/2021/05/dbt-crisis-survival.html)
-[DBT Reality Acceptance](https://www.sitwithariadne.com/2021/06/dbt-reality-acceptance-skills.html)
-
-[^2]: It's hard to define dissociation, it's easier to define it as the opposite of mindfulness. 
-[What is Mindfulness](https://www.sitwithariadne.com/2021/03/what-is-mindfulness-christine-forner.html)
 
 Guiding our own practice, I recommend erring on the side of caution. Can a practice be made gentler?
 
 Guiding others practices ... is there enough mindfulness and attentiveness to understand how others are doing? Can you tell if someone is dissociating? Do you know them well enough to sense a change in their behavior?
 
 ### In Ourselves
-* Emotions
-	* Positive? Negative? Helpful? Hurtful?[^3]
-* Pain
-	* Around the head? Chest?
-* Thoughts
-	* Memories? Tasks? Arguments?
+##### Emotions
+* Positive? 
+* Negative? 
+* Helpful?
+* Painful?
 
-[^3]: It took some practice, but I stop at self-loathing, and self-criticism. I do something else, like go for a walk, do some art, sleep.
+##### Pain
+* Around the head? 
+* Chest?
 
-### In Others
+##### Thoughts
+* Memories? 
+* Flashbacks?
+* Tasks? 
+* Arguments?
 
-* Posture
-	* Turned in? Guarded? Withdrawn? Excited? Animated?
-* Energy
-	* More? Less?
-* Speech
-	* Nonverbal? Quiet? Reserved?
-* Breathing
-	* Labored? Missing? Breath-holding?
-* Skin
-	* Flushed? Pale? Goose-bumps?
+## In Others
+##### Posture
+* Turned in? 
+* Guarded? 
+* Withdrawn?
+* Excited?
+* Animated?
 
+##### Energy
+* More? 
+* Less?
+
+##### Speech
+* Nonverbal?
+* Quiet? 
+* Reserved?
+
+##### Breathing
+* Labored? 
+* Missing? 
+* Breath-holding?
+
+##### Skin
+* Flushed? 
+* Pale? 
+* Goose-bumps?
 
 # These groups are at risk for harm
 I've seen these groups struggle most. **It is by no means definitive.** 
