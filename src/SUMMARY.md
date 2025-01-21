@@ -59,8 +59,7 @@
 
 - [Sutta Pitaka](sutta-pitaka.md)
 - [A Friend](a-friend.md)
-- [Stream Entry Fruit](stream-entry-fruit.md)
 
 # Etc
 
-- [My Current Recommendations](my-current-recommendations.md) 
+- [The Usual Texts](the-usual-texts.md)
