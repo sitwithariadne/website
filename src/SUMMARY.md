@@ -1,9 +1,11 @@
-[Who am I Anyway](who-am-i-anyway.md)
-[Meditation Is Not a Zero Risk Activity](meditation-is-not-a-zero-risk-activity.md)  
+[DBT Materials](dbt-materials.md)
 
 ---
 
-[DBT Materials](dbt-materials.md)
+[Meditation Is Not a Zero Risk Activity](meditation-is-not-a-zero-risk-activity.md) 
+[Who am I Anyway](who-am-i-anyway.md)
+ 
+---
 
 # Meditation and Mindfulness
 
