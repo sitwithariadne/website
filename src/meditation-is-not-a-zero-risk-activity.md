@@ -1,15 +1,41 @@
 ﻿Practicing, guiding, teaching, and/or suggesting meditation involves risk.
 
-The big risks are: suicide, suicidal ideation, self-harm, flashbacks, dissociation, changes in behavior, ... all kinds of human behavior. It is difficult to predict what a practice can uncover, reveal, or dismantle. 
-
-Meditation can arouse difficult feelings, memories, and awareness. In our culture of self-reliance, the things brought to the surface can deeply hurt us, without the support of others. 
-
-This is one of the reasons a teacher is frequently recommended: to identify when support is needed, and provide it.
+> This page is the result of years of practicing and teaching meditaiton.
+> 
+> I have contemplated suicide from failed meditation sessions. I know others who have also contemplated suicide from failed meditaiton sessions.
 
 # First, Do No Harm
 I think meditation is not intended to harm us.
 
 A framework of **First, Do No Harm** will have clear boundaries around when to stop a session.
+
+# Risks
+
+### Big Risks
+* suicide
+* suicidal ideation
+* self-harm
+
+### Medium Risks
+* Dissocation
+* Flashbacks
+
+### The Unavoidables
+* changes in behavior (sometimes good, sometimes bad)
+
+# Mechanics of Meditation and Trauma
+
+Our brains have an organ called the medial prefrontal cortext (mPFC). It's basically the spot on our brows between our eyeballs. It's also the seat of mindfulness.
+
+Developed mindfulness leads to an altered state of consiounsess as distict and different as being awake is to being asleep.
+
+Our psyches know this ability is there ... trying to reach for it, and failing can be traumatic in-and-of-itself.
+
+This altered state is meant to be learned under supervision from someone else with experience, a lot like how a child learns how to person with an adult present.
+
+In our culture of self-reliance, mindfulness is seen as another activity, like watching TV, or going for a walk. It isn't.
+
+> I __**strongly recommend**__ listening to guided meditations, for **years** if required. It's OK to need support in this area.
 
 ### Ariadne's Stopping Points
 **Emotions associated with self-harm.**
@@ -146,8 +172,6 @@ When two specific feelings combine, they lead directly to suicidal ideation
 
 ##### Sadness
 * Despair
-
-> I have felt everything on this list first-hand. I have contemplated suicide from failed Metta sessions. I know others who have also contemplated suicide from failed Metta sessions.
 
 # Recommended Materials
 
