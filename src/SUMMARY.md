@@ -3,8 +3,6 @@
 
 ---
 
-# DBT Materials
-
 [DBT Materials](dbt-materials.md)
 
 # Meditation and Mindfulness
