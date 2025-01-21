@@ -1,6 +1,4 @@
-﻿ ## How to Meditate with a Pet[^pet]
- 
-I hope the reader is helped by these instructions and comes to no harm engaging in this guidance.
+﻿I hope the reader is helped by these instructions and comes to no harm engaging in this guidance.
 
 I feel meditation at it's core is about engagement, awareness, kindness, and presence. I've experienced benefit practicing with my cat this set of instructions.
 
@@ -34,10 +32,10 @@ I'd ask, If at any point, emotions come up which are difficult, please stop and 
 
 You can pet the pet however long you like, and whenever you like, so long at the pet is willing. This is why many people own pets.
 
-[^pet]: This used to be titled "Kitty Meditation", but I edited it to be pet agnostic.
+-----
 
-**redirect:** sitwithariadne.com/pet-meditation
-v1.5 - Last edit 19-Jan-2023
-© 2023. This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+v2.1 - Last edit 21-Jan-2025
+
+This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 

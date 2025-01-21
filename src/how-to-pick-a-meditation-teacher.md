@@ -50,7 +50,9 @@ If this person knows their stuff, when they share their knowledge, do they arous
 
 [How to Identify Narcissists by their actions](https://www.sitwithariadne.com/2021/06/the-narcissists-prayer.html)
 
-v1.4 - Last edit 8-Jan-2025 
+-----
+
+v1.4 - Last edit 21-Jan-2025 
  
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 

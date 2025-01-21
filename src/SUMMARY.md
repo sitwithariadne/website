@@ -18,18 +18,14 @@
 
 # Meditation
 
-- [Theory](meditation-theory.md)
 - [Boundaries](meditation-boundaries.md) 
-- [Mindfulness of Breath - MN 118 Anapanasati](mindfulness-of-breath-mn-118-anapanasati.md)  
 - [Pet Meditation](pet-meditation.md)
-- [Meditation on Sensing Agency](meditation-on-sensing-agency.md)  
 - [Meditations on Gender](meditations-on-gender.md)
 - [Box Breathing](box-breathing.md)    
 
 # Metta
 
 - [Metta](metta.md)  
-- [Merging Deity Practice with Metta](merging-deity-practice-with-metta.md)
 - [Self-Compassion Mantras - Karuna Practice](self-compassion-mantras-karuna-practice.md)  
 - [Entering the Brahmavihara of Metta Accidentally](entering-the-brahmavihara-of-metta-accidentally.md)  
 
