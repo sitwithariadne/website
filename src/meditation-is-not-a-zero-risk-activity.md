@@ -12,16 +12,16 @@ A framework of **First, Do No Harm** will have clear boundaries around when to s
 # Risks
 
 ### Big Risks
-* suicide
-* suicidal ideation
-* self-harm
+* Suicide
+* Suicidal ideation
+* Self-harm
 
 ### Medium Risks
 * Dissocation
 * Flashbacks
 
 ### The Unavoidables
-* changes in behavior (sometimes good, sometimes bad)
+* Changes in behavior (sometimes good, sometimes bad)
 
 # Mechanics of Meditation and Trauma
 
@@ -31,41 +31,27 @@ Developed mindfulness leads to an altered state of consiounsess as distict and d
 
 Our psyches know this ability is there ... trying to reach for it, and failing can be traumatic in-and-of-itself.
 
-This altered state is meant to be learned under supervision from someone else with experience, a lot like how a child learns how to person with an adult present.
+This altered state is meant to be learned under supervision from someone else with experience, a lot like how a child how to act via an adult shaping their behavior.
 
 In our culture of self-reliance, mindfulness is seen as another activity, like watching TV, or going for a walk. It isn't.
 
 > I __**strongly recommend**__ listening to guided meditations, for **years** if required. It's OK to need support in this area.
 
 ### Ariadne's Stopping Points
-**Emotions associated with self-harm.**
-* Hopelessness, helplessness, despair
-* Dissociation
+
+These are the "do not continue" feelings
+
+##### Emotions associated with self-harm
+* Hopelessness
+* Helplessness
+* Despair
 * Flashbacks
 * Chest pain
 
-Guiding our own practice, I recommend erring on the side of caution. Can a practice be made gentler?
-
-Guiding others practices ... is there enough mindfulness and attentiveness to understand how others are doing? Can you tell if someone is dissociating? Do you know them well enough to sense a change in their behavior?
-
-### In Ourselves
-##### Emotions
-* Positive? 
-* Negative? 
-* Helpful?
-* Painful?
-
-##### Pain
-* Around the head? 
-* Chest?
-
-##### Thoughts
-* Memories? 
-* Flashbacks?
-* Tasks? 
-* Arguments?
-
 ## In Others
+
+Sensing a stoping point in someone else being guided is **much harder.**
+
 ##### Posture
 * Turned in? 
 * Guarded? 
@@ -92,10 +78,14 @@ Guiding others practices ... is there enough mindfulness and attentiveness to un
 * Pale? 
 * Goose-bumps?
 
-# These groups are at risk for harm
+# Groups are at risk for meditation harm
+
 I've seen these groups struggle most. **It is by no means definitive.** 
 
 ### Self-loathing
+
+Self-hate prevents mindfulness.
+
 Inability to meditate is frequently tied to moral agency, and seen as a personal failing.
 
 __**Difficulty meditating is not a moral failing.**__
@@ -128,7 +118,6 @@ Those without the above prerequisites are in danger.
 1. Someone is told to direct their attention towards feelings of love and kindness.
 1. They cannot.
 1. As they continuously fail to arouse these feelings, **much darker feelings are aroused.**
-
 
 ### Categories of feelings they might feel instead (an incomplete list!):
 
