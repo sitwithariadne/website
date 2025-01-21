@@ -113,7 +113,7 @@ This is a well-intentioned and bright practice. I'm familiar with it from Buddhi
 
 Those without the above prerequisites are in danger.
 
-## A Typical Metta failure:
+## A Typical Metta failure
 
 1. Someone is told to direct their attention towards feelings of love and kindness.
 1. They cannot.
@@ -156,10 +156,7 @@ Those without the above prerequisites are in danger.
 ### Specific feelings that can lead to suicidal ideation
 When two specific feelings combine, they lead directly to suicidal ideation
 
-##### Fear
 * Hopeless
-
-##### Sadness
 * Despair
 
 # Recommended Materials
@@ -186,6 +183,6 @@ When two specific feelings combine, they lead directly to suicidal ideation
 
 -----
 
-v2.1 - Last edit 21-Jan-2025
+v2.2 - Last edit 21-Jan-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
