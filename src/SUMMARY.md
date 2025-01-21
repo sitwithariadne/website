@@ -25,9 +25,8 @@
 
 # Metta
 
-- [Metta](metta.md)  
+- [Metta](metta.md) 
 - [Self-Compassion Mantras - Karuna Practice](self-compassion-mantras-karuna-practice.md)  
-- [Entering the Brahmavihara of Metta Accidentally](entering-the-brahmavihara-of-metta-accidentally.md)  
 
 # Parenting
 

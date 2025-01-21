@@ -1,21 +1,16 @@
-﻿I recommend practicing mindfulness and compassion, together.
+﻿People ask me what I would recommend reading. I don't recommend reading, I recommend *practice.*
 
-### My tradition 
-[Pāḷi Canon](https://en.wikipedia.org/wiki/Pali_Canon) - [Thai Forest](https://en.wikipedia.org/wiki/Thai_Forest_Tradition) - [Ajahn Brahm](https://en.wikipedia.org/wiki/Ajahn_Brahm) 
-My meditaiton practice is [jhana](https://en.wikipedia.org/wiki/Dhyana_in_Buddhism) oriented, deep states of non-dual stillness.
-  
-I've had a lot of mystical experiences at this point, that was one of the primary things I wanted at one point, but now that I've had them, this is the religion I'm following for this lifetime.
-  
-Why Jhana? Jhana is [nibbana](https://en.wikipedia.org/wiki/Nirvana_(Buddhism)) now. Nibbana means quenching, like a fire being doused with water.
+I put some stuff below as part of the "Usual Texts" stuff that gets recommended by others frequently that I read, that I considered helpful.
 
+### Ariadne's Usual Texts
 
-I'm not recomminding any of the below texts, these are considered the classical route, stuff I have (or at one time had) in my personal library.
+My texts come from the [Pāḷi Canon](https://en.wikipedia.org/wiki/Pali_Canon) in the [Thai Forest](https://en.wikipedia.org/wiki/Thai_Forest_Tradition) tradition. My primary inspiration is [Ajahn Brahm](https://en.wikipedia.org/wiki/Ajahn_Brahm)
 
 ### Additional Resources
 
-[Zen Mind, Beginners Mind - Shunryu Suzuki](https://www.shambhala.com/zen-mind-beginner-s-mind-1796.html)
-
 [Kindfulness - Ajahn Brahm](https://wisdomexperience.org/product/kindfulness/)
+
+[Zen Mind, Beginners Mind - Shunryu Suzuki](https://www.shambhala.com/zen-mind-beginner-s-mind-1796.html)
 
 ### Bramaviharas
 
@@ -45,7 +40,6 @@ I'm not recomminding any of the below texts, these are considered the classical 
 
 [The Power of Vulnerability - Brene Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en) (A video on shame)  
   
-
 ### Elder Texts
 
 [The Path of Purification - Visuddhimagga](https://www.accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf) (not canon)  
