@@ -10,10 +10,6 @@
 
 ---
 
-[Who am I Anyway](who-am-i-anyway.md)
-
----
-
 # Meditation and Mindfulness
 
 - [What is Mindfulness](what-is-mindfulness.md)  
@@ -70,3 +66,7 @@
 # Etc
 
 - [The Usual Texts](the-usual-texts.md)
+
+---
+
+[Author](author.md)
