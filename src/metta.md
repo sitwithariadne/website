@@ -2,6 +2,10 @@
 
 The following text is remixed from [The Path of Discrimination](https://en.wikipedia.org/wiki/Pa%E1%B9%ADisambhid%C4%81magga) or *Pts.*, a Pali Canon, Theravada Buddhist text.
 
+This is what I understood from XIV. Treatise of Loving Kindness.
+
+I've included a copy of the Pts [here](./archive/patisambhidamagga_en_version_20230910.pdf).
+
 # The 11 Benefits of Practicing Metta
 
 1. Sleep with ease
