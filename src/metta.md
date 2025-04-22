@@ -2,7 +2,7 @@
 
 I come from a trauma background, so my default intentions without training are: inward self-hate, or outward misanthropy.
 
-When I started practicing metta, I was told to imagine the usual set: babys, cats, dogs, plants, fictional characters -- and send them love, warmth, good vibes. 
+When I started practicing Metta, I was told to imagine the usual set: babies, cats, dogs, plants, fictional characters -- and send them love, warmth, good vibes. 
 
 I haven't felt enough love over the course of this lifetime to have a target to recall ... let alone send anyone it. Several times I was suicidal afterwards. I couldn't feel love, but I certainly felt despair.
 
@@ -16,7 +16,7 @@ A good shortcut to understand Metta ...
 
 Metta comes in two main variations, a wish for beings to be free from something, and a wish for beings to have something.
 
-Understanding what Metta is the antidote for, will help with understanding Metta.
+Metta is the antidote to ill-will. From the *Pts* ...
 
 # Eight Aspects of Metta
 
@@ -37,7 +37,7 @@ Understanding what Metta is the antidote for, will help with understanding Metta
 1. I see a stranger.
 1. A thought: "I hate this person"
 1. I recall, "ill-will hurts a lot, can I do something about it?"
-1. I recall the Pts instructions (what's on this page about specific intentions and targets)
+1. I recall the *Pts* instructions (what's on this page about specific intentions and targets)
 1. I substitute Metta for Ill-will: "Well, I don't want them to be **oppressed**"
 1. I feel some relief
 
@@ -49,7 +49,7 @@ Understanding what Metta is the antidote for, will help with understanding Metta
 1. I see family.
 1. A thought: "I hate this person"
 1. I recall, "ill-will hurts a lot, can I do something about it?"
-1. I recall the Pts instructions (what's on this page about specific intentions and targets)
+1. I recall the *Pts* instructions (what's on this page about specific intentions and targets)
 1. I substitute Metta for Ill-will: "Well, I don't want to build enmity, I don't want us to both hate each other"
 1. I feel some relief
 
@@ -91,6 +91,6 @@ A local [PDF](./archive/patisambhidamagga_en_version_20230910.pdf) See section X
 
 -----
 
-v2.3 - Last edit 22-Apr-2025
+v2.4 - Last edit 22-Apr-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
