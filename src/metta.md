@@ -1,6 +1,6 @@
 ﻿Metta is a cultivated Buddhist religious emotion.
 
-The following text is remixed from [The Path of Discrimination](https://en.wikipedia.org/wiki/Pa%E1%B9%ADisambhid%C4%81magga) or *Pts*
+The following text is remixed from [The Path of Discrimination](https://en.wikipedia.org/wiki/Pa%E1%B9%ADisambhid%C4%81magga) or *Pts.*, a Pali Canon, Theravada Buddhist text.
 
 # The 11 Benefits of Practicing Metta
 
@@ -47,6 +47,10 @@ There are a lot of words here I don't really understand, so I looked them up in 
 | ----------------|------------|------------|
 | Safety | I.1.a | The state of being protected from or guarded against hurt or injury; freedom from danger. Frequently in in safety. |
 | Bliss | 2b | Mental, ethereal, spiritual: perfect joy or felicity, supreme delight; blessedness. |
+
+## Textual Intention
+
+From Pts: *"Let all being be free from enimity, safe and blissful."*
 
 -----
 
