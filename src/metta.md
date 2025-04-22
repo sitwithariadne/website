@@ -1,24 +1,20 @@
-﻿Metta is a cultivated Buddhist religious emotion.
+﻿# My practice of Metta
 
-The following text is remixed from [The Path of Discrimination](https://en.wikipedia.org/wiki/Pa%E1%B9%ADisambhid%C4%81magga) or *Pts.*, a Pali Canon, Theravada Buddhist text.
+I come fom a trauma background, so my default intentions without training are: inward self-hate, or outward misanthropy.
 
-This is what I understood from *XIV. Treatise of Loving Kindness.*
+When I started practicing metta, I was told to image cats, dogs, plants, fictional characters, and send them love, good vibes. Several times I was suicidal afterwards. I didn't feel love, but I certainly felt despair.
 
-I've included a copy of the Pts [here](./archive/patisambhidamagga_en_version_20230910.pdf).
+* Metta is on a spectrum, between easier intentions (intending beings to be free from cruelty) towards harder ones (intending beings towards bliss)
 
-# The 11 Benefits of Practicing Metta
+My hope is to share my understanding of the *Path of Discrimination* and how it shows a lower spoon cost to practice Metta.
 
-1. Sleep with ease
-1. Wake happily
-1. No bad dreams
-1. People love you
-1. Beings that aren't people love you
-1. Deities protect you
-1. Can't be harmed by fire, poison or blades
-1. The mind quickly stills
-1. The face is clear and bright
-1. Don't feel lost at death
-1. If you aren't enlightened, you still get reborn into a realm of divinity
+A good shortcut to understand Metta ...
+
+**Metta is the opposite of cruelty.**
+
+Metta comes in two main variations, a wish for beings to be free from something, and a wish for beings to have something.
+
+Understanding what Metta is the antidote for, will help with understanding Metta.
 
 # Eight Aspects of Metta
 
@@ -30,6 +26,30 @@ I've included a copy of the Pts [here](./archive/patisambhidamagga_en_version_20
 * Freedom from enmity, not inimical
 * Pleasure not pain
 * Bliss not pain
+
+**Example 1 - Others away from home**
+
+1. I am not at home
+1. My mind has been trained into misanthoropy
+1. I feel pained, empty, agitated, dissatisfied, conceited, (it's a long list)
+1. I see a stranger.
+1. A thought: "I hate this person"
+1. I recall, "ill-will hurts a lot, can I do something about it?"
+1. I recall the Pts instructions (what's on this page about specific intentions and targets)
+1. I substitute Metta for Ill-will: "Well, I don't want them to be **oppressed**"
+1. I feel some relief
+
+**Example 2 - Towards myself, at home**
+
+1. I am at home.
+1. My mind has been trained into misanthoropy
+1. I feel pained, empty, agitated, dissatisfied, conceited, (it's a long list)
+1. I see family.
+1. A thought: "I hate this person"
+1. I recall, "ill-will hurts a lot, can I do something about it?"
+1. I recall the Pts instructions (what's on this page about specific intentions and targets)
+1. I substitute Metta for Ill-will: "Well, I don't want to build enmity, I don't want us to both hate each other"
+1. I feel some relief
 
 There are a lot of words here I don't really understand, so I looked them up in the [OED.](https://www.oed.com/)
 
@@ -46,18 +66,29 @@ There are a lot of words here I don't really understand, so I looked them up in 
 | **Inimical**        | 1 |  Having the disposition or temper of an enemy; unfriendly, hostile.|
 | **Pain**            | 3c | The state or condition of consciousness arising from mental or physical suffering (opposed to pleasure; cf. pleasure-pain n.); distress; (occasionally) an instance of this. Frequently with in. Also in plural in same sense. |
 
+Notice that most of these focus on fairness.
+
 ## Intentions toward
+
+These intentions are harder, I haven't practiced with them much.
+
 | Intended Toward | OED Number | Definition |
 | ----------------|------------|------------|
 | Safety | I.1.a | The state of being protected from or guarded against hurt or injury; freedom from danger. Frequently in in safety. |
 | Bliss | 2b | Mental, ethereal, spiritual: perfect joy or felicity, supreme delight; blessedness. |
 
+# References
+
 ## Textual Intention
 
 From Pts: *"Let all being be free from enimity, safe and blissful."*
 
+[The Path of Discrimination](https://en.wikipedia.org/wiki/Pa%E1%B9%ADisambhid%C4%81magga) or *Pts.*, a Pali Canon, Theravada Buddhist text.
+
+A local [PDF](./archive/patisambhidamagga_en_version_20230910.pdf) See section XIV - *Treatise of Loving Kindness.*
+
 -----
 
-v2.2 - Last edit 22-Apr-2025
+v2.3 - Last edit 22-Apr-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
