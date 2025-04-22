@@ -1,12 +1,14 @@
 ﻿# My practice of Metta
 
-I come fom a trauma background, so my default intentions without training are: inward self-hate, or outward misanthropy.
+I come from a trauma background, so my default intentions without training are: inward self-hate, or outward misanthropy.
 
-When I started practicing metta, I was told to image cats, dogs, plants, fictional characters, and send them love, good vibes. Several times I was suicidal afterwards. I didn't feel love, but I certainly felt despair.
+When I started practicing metta, I was told to imagine the usual set: babys, cats, dogs, plants, fictional characters -- and send them love, warmth, good vibes. 
+
+I haven't felt enough love over the course of this lifetime to have a target to recall ... let alone send anyone it. Several times I was suicidal afterwards. I couldn't feel love, but I certainly felt despair.
+
+My hope is to share my understanding of Metta via *Path of Discrimination* and how it shows a lower spoon cost to practice Metta.
 
 * Metta is on a spectrum, between easier intentions (intending beings to be free from cruelty) towards harder ones (intending beings towards bliss)
-
-My hope is to share my understanding of the *Path of Discrimination* and how it shows a lower spoon cost to practice Metta.
 
 A good shortcut to understand Metta ...
 
