@@ -40,18 +40,16 @@ There are a lot of words here I don't really understand, so I looked them up in 
 | **Harassment**      | 2 | *spec.* Unwarranted (and now esp. unlawful) speech or behaviour causing annoyance, alarm, distress, or intimidation, usually occurring persistently over a period of time. Frequently with modifying word specifying the type of harassment involved. Cf. harass v. 5. See also sexual harassment n. |
 | **Enmity**          | 2a | The condition of being an enemy; a state of mutual hostility; esp. in phrase at or in enmity. |
 | **Inimical**        | 1 |  Having the disposition or temper of an enemy; unfriendly, hostile.|
-| **Pain**            | 3c | The state or condition of consciousness arising from mental or physical suffering (opposed to pleasure; cf. pleasure-pain n.); distress; (occasionally) an instance of this. Frequently with in. Also in plural in same sense.|
+| **Pain**            | 3c | The state or condition of consciousness arising from mental or physical suffering (opposed to pleasure; cf. pleasure-pain n.); distress; (occasionally) an instance of this. Frequently with in. Also in plural in same sense. |
 
 ## Intentions toward
 | Intended Toward | OED Number | Definition |
 | ----------------|------------|------------|
-| Safety | I.1.a | 
-  The state of being protected from or guarded against hurt or injury; freedom from danger. Frequently in in safety. |
-| Bliss | 2b | 
-  Mental, ethereal, spiritual: perfect joy or felicity, supreme delight; blessedness. |
+| Safety | I.1.a | The state of being protected from or guarded against hurt or injury; freedom from danger. Frequently in in safety. |
+| Bliss | 2b | Mental, ethereal, spiritual: perfect joy or felicity, supreme delight; blessedness. |
 
 -----
 
-v2.1 - Last edit 22-Apr-2025
+v2.2 - Last edit 22-Apr-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
