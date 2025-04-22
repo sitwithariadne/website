@@ -33,22 +33,14 @@ There are a lot of words here I don't really understand, so I looked them up in 
 
 | Freedom From | OED Number | Definition | 
 | ------------ | ---------- | ---------- |
-| **Oppression**      | 2a | 
-  Prolonged cruel or unjust treatment or exercise of authority, control, or power; tyranny; exploitation. |
-| **Injury**          | 1  | 
-  Wrongful action or treatment; violation or infringement of another's rights; suffering or mischief wilfully and unjustly inflicted. With an and plural, A wrongful act; a wrong inflicted or suffered. |
-| **Disappointment**  | 2c | 
-  ... the feeling or emotion produced by the non-fulfilment of an expectation, intention, or desire; esp. frustration, displeasure, or dejection caused by failure to achieve a hoped-for or anticipated outcome. |
-| **Deprivation**     | 3 | 
-  A lack of adequate resources or of education, care, etc., leading to a low standard of living or reduced opportunities in life. |
-| **Harassment**      | 2 | 
-  *spec.* Unwarranted (and now esp. unlawful) speech or behaviour causing annoyance, alarm, distress, or intimidation, usually occurring persistently over a period of time. Frequently with modifying word specifying the type of harassment involved. Cf. harass v. 5. See also sexual harassment n. |
-| **Enmity**          | 2a | 
-  The condition of being an enemy; a state of mutual hostility; esp. in phrase at or in enmity. |
-| **Inimical**        | 1 | 
-  Having the disposition or temper of an enemy; unfriendly, hostile.|
-| **Pain**            | 3c |
-  The state or condition of consciousness arising from mental or physical suffering (opposed to pleasure; cf. pleasure-pain n.); distress; (occasionally) an instance of this. Frequently with in. Also in plural in same sense.|
+| **Oppression**      | 2a | Prolonged cruel or unjust treatment or exercise of authority, control, or power; tyranny; exploitation. |
+| **Injury**          | 1  | Wrongful action or treatment; violation or infringement of another's rights; suffering or mischief wilfully and unjustly inflicted. With an and plural, A wrongful act; a wrong inflicted or suffered.|
+| **Disappointment**  | 2c | ... the feeling or emotion produced by the non-fulfilment of an expectation, intention, or desire; esp. frustration, displeasure, or dejection caused by failure to achieve a hoped-for or anticipated outcome. |
+| **Deprivation**     | 3 | A lack of adequate resources or of education, care, etc., leading to a low standard of living or reduced opportunities in life. |
+| **Harassment**      | 2 | *spec.* Unwarranted (and now esp. unlawful) speech or behaviour causing annoyance, alarm, distress, or intimidation, usually occurring persistently over a period of time. Frequently with modifying word specifying the type of harassment involved. Cf. harass v. 5. See also sexual harassment n. |
+| **Enmity**          | 2a | The condition of being an enemy; a state of mutual hostility; esp. in phrase at or in enmity. |
+| **Inimical**        | 1 |  Having the disposition or temper of an enemy; unfriendly, hostile.|
+| **Pain**            | 3c | The state or condition of consciousness arising from mental or physical suffering (opposed to pleasure; cf. pleasure-pain n.); distress; (occasionally) an instance of this. Frequently with in. Also in plural in same sense.|
 
 ## Intentions toward
 | Intended Toward | OED Number | Definition |
