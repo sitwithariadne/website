@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Page 1" id="Page_1">
+    <mxGraphModel dx="1195" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" tags="Background" id="2">
+          <mxCell style="vsdxID=1;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+            <mxGeometry x="3" y="814" width="370" height="28" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3" style="vsdxID=2;fillColor=#ffffff;gradientColor=none;shape=stencil(pZBLDoAgDERP062pdMXazz1MRCEqGMTf7YWw8JO40d1M86ZpByibZDUKYDg5azqxqtpJoBwYU1oKq5xXQAVQ1hgrWmtmXUc/VoEMajBL2LDFHIYEw/3qygj2Sl/AFDHB9AfNecLpPYHf4dsdXpy/evMswo9iiVQc);strokeColor=#000000;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="2" vertex="1">
+          <mxGeometry width="370" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Arial;color:#3a414a;direction:ltr;letter-spacing:0px;line-height:100%;opacity:1&quot;&gt;sitwithariadne.com/mn20-removal-of-distracting-thoughts&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;vsdxID=1;fillColor=none;gradientColor=none;strokeColor=none;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" parent="2" vertex="1">
+          <mxGeometry y="-0.78" width="370.21" height="29.21" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Background" placeholders="1" id="56">
+          <mxCell style="vsdxID=47;fillColor=none;gradientColor=none;fillOpacity=0;strokeColor=none;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+            <mxGeometry x="660" y="800" width="424" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="57" style="vsdxID=48;fillColor=#ffffff;gradientColor=none;fillOpacity=0;shape=stencil(pZFLDgIhEERPw5Y0dIyyHscLeAIiKESECYPf08tMu0ATN7rrrnoVOgXDbnR6sEzCWHI62qs3xTFcMyl9dDb7UieGPcNun7I95HSOhvZBV1LCrFhDGTHREnTebf3DkgYcxXJBBiVP6TK9eHv5ZN3bbUNg8LEBBQAH8QetFFer7wn4HX67ow5zN9SaD4Gqbf3PLqtE/4D9Ew==);strokeColor=none;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=1;html=1;whiteSpace=wrap;" parent="56" vertex="1">
+          <mxGeometry width="424" height="42" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;p style=&quot;text-align: right; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-family: Arial; color: rgb(58, 65, 74); direction: ltr; letter-spacing: 0px; line-height: 100%; opacity: 1;&quot;&gt;suttacentral.net/mn20/en/bodhi&lt;/font&gt;&lt;font style=&quot;font-family: Arial; color: rgb(51, 51, 51); direction: ltr; letter-spacing: 0px; line-height: 100%; opacity: 1;&quot;&gt;&lt;br&gt;Flowchart by Ariadne - v1.3 -&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: center; background-color: transparent;&quot;&gt;%date{d-mmm-yy}%&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(51, 51, 51)); font-family: Arial; letter-spacing: 0px;&quot;&gt;&amp;nbsp;- CC0&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" placeholders="1" date="" id="58">
+          <mxCell style="text;vsdxID=47;fillColor=none;gradientColor=none;fillOpacity=0;strokeColor=none;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;verticalAlign=middle;align=right;overflow=width;;html=1;" parent="56" vertex="1">
+            <mxGeometry x="3.17" y="2.24" width="418.47" height="36.83" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="55" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;p style=&quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&quot;&gt;&lt;font style=&quot;font-size:26.81px;font-family:Arial;color:#282c33;direction:ltr;letter-spacing:0px;line-height:111.10833333333301%;opacity:1&quot;&gt;&lt;b&gt;MN20. The Removal of Distracting Thoughts&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="text;vsdxID=45;fillColor=none;gradientColor=none;fillOpacity=0;strokeOpacity=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=1;strokeColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;align=center;overflow=width;;html=1;" parent="1" vertex="1">
+          <mxGeometry x="63" y="4" width="924.75" height="45.44" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="55" target="55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-70" value="&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;b&gt;&quot;... give attention to some other sign connected with what is wholesome ...&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;br&gt;Distraction, redirection, substitution, doing something else, doing another activity, thinking another set of thoughts, feeling another set of sensations.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="559" y="60" width="481" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-71" value="&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;b&gt;&quot;... these thoughts are unwholesome, they are reprehensible, they result in suffering ...&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;br&gt;&quot;When I have done this in the past it has hurt me or others&quot;&lt;br&gt;&lt;br&gt;&quot;If I continue doing this, I will probably regret it&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="559" y="214" width="481" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-72" value="&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;b&gt;&quot;... shut your eyes or look away ...&quot;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;br&gt;&lt;br&gt;&quot;People are wrong on the Internet, that′s OK&quot;&lt;br&gt;&lt;br&gt;&quot;Someone on the street is trying to talk to me, I should ignore them.&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="559" y="366" width="481" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-73" value="&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;b&gt;&quot;... substitute subtler actions for grosser ones ...&quot;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;br&gt;&lt;br&gt;Running &amp;gt; Walking &amp;gt; Standing &amp;gt; Sitting &amp;gt; Laying &amp;gt; Meditating&lt;br&gt;&lt;br&gt;Screaming &amp;gt; Yelling &amp;gt; Raised voice &amp;gt; Arguing &amp;gt; Talking &amp;gt; Listening&lt;br&gt;&lt;br&gt;Terrified &amp;gt; Panicked &amp;gt; Anxious &amp;gt; Worried &amp;gt; Concerned &amp;gt; Curious&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="561" y="517.5" width="481" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-74" value="&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;&lt;b&gt;&quot;... with teeth clenched and tongue pressed against the roof of the mouth, they beat down, constrain, and crush mind with mind ...&quot;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;letter-spacing: 0px; font-size: 15.52px; font-family: Arial; color: rgb(34, 33, 32); direction: ltr; line-height: 15.52px; opacity: 1;&quot;&gt;For evil thoughts like violence it′s OK to take the thought and&lt;br&gt;With force go: &quot;No, I′m not doing this.&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="559" y="670.5" width="483" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-90" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#808080;endArrow=block;endFill=1;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-77" target="3Q-AwEQH67dY3rNCH_d9-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-91" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#808080;endArrow=block;endFill=1;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-77" target="3Q-AwEQH67dY3rNCH_d9-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-92" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#808080;endArrow=block;endFill=1;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-77" target="3Q-AwEQH67dY3rNCH_d9-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-93" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#808080;endArrow=block;endFill=1;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-77" target="3Q-AwEQH67dY3rNCH_d9-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-94" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#808080;endArrow=block;endFill=1;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-77" target="3Q-AwEQH67dY3rNCH_d9-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-77" value="&lt;b style=&quot;color: rgb(58, 65, 74); font-family: Arial; font-size: 22.58px;&quot;&gt;A Distracting Thought&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="363" width="146" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=1;strokeColor=#808080;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-79" target="3Q-AwEQH67dY3rNCH_d9-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-79" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Redirect&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=90;absoluteArcSize=1;fillColor=light-dark(#9391ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="260" y="66.5" width="240" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=1;strokeColor=#808080;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-80" target="3Q-AwEQH67dY3rNCH_d9-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Consequences&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=90;absoluteArcSize=1;fillColor=light-dark(#9391ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="260" y="220.5" width="240" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=1;strokeColor=#808080;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-81" target="3Q-AwEQH67dY3rNCH_d9-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ignore&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=90;absoluteArcSize=1;fillColor=light-dark(#9391ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="260" y="372.5" width="242" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=1;strokeColor=#808080;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-82" target="3Q-AwEQH67dY3rNCH_d9-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-82" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Substitute in Subtlety&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=90;absoluteArcSize=1;fillColor=light-dark(#9391ff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="260" y="531.5" width="240" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=block;endFill=1;strokeColor=#808080;" edge="1" parent="1" source="3Q-AwEQH67dY3rNCH_d9-83" target="3Q-AwEQH67dY3rNCH_d9-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q-AwEQH67dY3rNCH_d9-83" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Harm Reduction&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=90;absoluteArcSize=1;fillColor=#FF6666;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="260" y="684.5" width="242" height="91" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
