@@ -10,7 +10,7 @@ Some of the charts found on this blog, I have laminated in my house. They are my
 
 Other charts I have made to reference quickly for online peer-support.
 
-In the spirit of giving this book isn't monetized. Most of the content contained is dedicated to the Public Domain via [CC0](https://creativecommons.org/licenses/by/4.0/) so it can be copied, remixed, and repurposed.
+In the spirit of giving this book isn't monetized. Most of the content I've authored is licensed as [CC0](https://creativecommons.org/publicdomain/zero/1.0/), public domain.
 
 I hope nothing I've written in this book causes myself or others to come to harm.
 
@@ -20,7 +20,7 @@ Email: `sit with ariadne` [at] `gmail` [dot] `com`
 
 -----
 
-v2.4 - Last edit 8-Jan-2025
+v2.5 - Last edit 13-May-2025
 
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
