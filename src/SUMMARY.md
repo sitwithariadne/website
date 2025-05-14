@@ -61,6 +61,7 @@
 # Theravada Buddhism
 
 - [Sutta Pitaka](sutta-pitaka.md)
+- [Eightfold Path Wall Chart](eightfold-path-wall-chart.md)
 - [A Friend](a-friend.md)
 
 # Etc
