@@ -2,6 +2,9 @@ The DBT materials are found on my other site, [dbtwithariadne.com](https://www.d
 
 This a spiritual/religious/meditation blog.
 
+# Who I am
+My details are [here](./author.md)
+
 # How to use this website/book
 
 ### Dark Theme
