@@ -45,24 +45,24 @@
 - [Emotions](emotions.md)
 - [Things That Aren't Empathy](things-that-arent-empathy.md)
 
+# Stories
+
+- [The Starfish Story](the-starfish-story.md)  
+- [The Narcissist's Prayer](the-narcissists-prayer.md)  
+- [Good Bad Who Knows](good-bad-who-knows.md)    
+
 # Groups and Communities
 
 - [Outcasts and Lowlifes](outcasts-and-lowlifes.md)  
 - [People Who Should Be Avoided](people-who-should-be-avoided.md)
 - [When to Ban Someone](when-to-ban-someone.md)
 
-# Stories
-
-- [The Starfish Story](the-starfish-story.md)  
-- [The Narcissist's Prayer](the-narcissists-prayer.md)  
-- [Things to Renounce](things-to-renounce.md)
-- [Good Bad Who Knows](good-bad-who-knows.md)    
-
 # Theravada Buddhism
 
 - [Sutta Pitaka](sutta-pitaka.md)
 - [Noble Eightfold Path Chart](noble-eightfold-path-chart.md)
 - [A Friend](a-friend.md)
+- [Things to Renounce](things-to-renounce.md)
 
 # Etc
 
