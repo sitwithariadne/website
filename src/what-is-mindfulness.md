@@ -1,4 +1,12 @@
-﻿From [Dissociation, Mindfulness, and Creative Meditations](https://www.routledge.com/Dissociation-Mindfulness-and-Creative-Meditations-Trauma-Informed-Practices-to-Facilitate-Growth/Forner/p/book/9781138838314)
+﻿# A Request to the reader
+
+I request the reader to consider this page slowly and carefully.
+
+I had to track down and find a clinical resource, because for much of my practice ... I wasn't meditating, I was dissociating.
+
+# What is Mindfulness
+
+From [Dissociation, Mindfulness, and Creative Meditations](https://www.routledge.com/Dissociation-Mindfulness-and-Creative-Meditations-Trauma-Informed-Practices-to-Facilitate-Growth/Forner/p/book/9781138838314)
   
 This part is verbatim (page 2):  
 
@@ -47,12 +55,10 @@ I have reworded and remixed what follows as Mindfulness Targets.
 * Compassion
 * Self-care & care for others
 * Patience for ourselves and others
-* Non-judgement and awareness of the whole self
+* Non-judgment and awareness of the whole self
 
 -----
 
-v1.5 - 8-Jan-2025
+v1.6 - 15-May-2025
 
 Referenced works are the copyrights of their respective owners. 
-
-This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
