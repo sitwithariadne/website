@@ -13,7 +13,7 @@
 # Meditation and Mindfulness
 
 - [What is Mindfulness](what-is-mindfulness.md)  
-- [How to Pick a Meditation Teacher](how-to-pick-a-meditation-teacher.md)
+- [How to Pick a Teacher](how-to-pick-a-teacher.md)
 
 # Dissociation
 
