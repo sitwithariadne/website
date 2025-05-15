@@ -19,11 +19,13 @@ My personal emphasis is peace and non-harm.
 
 Clergy at a church might advocate Christianity, a monastic at a local temple might practice Zen, or someone on a YouTube channel might be a stoic. There is a path of practice and they are living their path. 
 
-How many hours a day is this person practicing their path? Is it a few minutes, a few hours, the whole day? In their sleep?
+- How many hours a day is this person practicing their path? 
+- Is it a few minutes, a few hours, the whole day? 
+- In their sleep?
 
 ### Points towards behaviors leading towards changes
 
-When our behaviors chance, we change. Do they encourage ...
+When our behaviors chance, we change. Examples of behaviors:
 
 - Inner-work
 - Prayer
@@ -63,15 +65,18 @@ Along the same lines as mistakes ... common humany includes: wants, desires, and
 
 ### Acknowledges the dark side of themselves
 
-Common humanity includes stuff we don't want, and want to be free of. Things like: addiction, anger, and greed.
+Among the things we have, but usually don't want: ignorance, hatred, and greed.
 
 - Do they acknowledge their darkness?
 - Do they care for it?
 - Does it seem to work?
+- Do they seem to be improving over time?
  
 ### Has  emotions  you'd want (happiness, contentment, balance)
 
-This person should have emotions and experiences you want. Are they:
+This person should have emotions and experiences you want. 
+
+Are they:
 
 - Content? 
 - Balanced? 
@@ -86,6 +91,7 @@ Also ask:
 - Do they look miserable? 
 - Do they have despair? 
 - How do they manage their difficult emotions?
+- Do they seem to be faking it?
   
 ### Has a life you understand
 
@@ -126,7 +132,7 @@ How do they approach how others could view them?
 
 -----
 
-v1.8 - Last edit 15-May-2025 
+v1.9 - Last edit 15-May-2025 
  
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
