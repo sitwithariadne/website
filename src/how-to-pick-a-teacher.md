@@ -25,7 +25,7 @@ Clergy at a church might advocate Christianity, a monastic at a local temple mig
 
 ### Points towards behaviors leading towards changes
 
-When our behaviors chance, we change. Examples of behaviors:
+When our behaviors change, we change. Examples of behaviors:
 
 - Inner-work
 - Prayer
@@ -57,7 +57,7 @@ Be especially wary of teachers who make no mistakes or strive to appear outwardl
   
 ### Doesn't transcend their own humanity
 
-Along the same lines as mistakes ... common humany includes: wants, desires, and feelings ... including wants, desires, and feelings we may not want. 
+Along the same lines as mistakes ... common humanity includes: wants, desires, and feelings ... including wants, desires, and feelings we may not want. 
 
 - How do they handle anger? 
 - How do they handle people they don't like?
@@ -87,7 +87,7 @@ Are they:
 
 Also ask: 
 
-- Is this the happiness person you've seen? 
+- Is this the happiest person you've seen? 
 - Do they look miserable? 
 - Do they have despair? 
 - How do they manage their difficult emotions?
@@ -132,7 +132,7 @@ How do they approach how others could view them?
 
 -----
 
-v1.9 - Last edit 15-May-2025 
+v1.10 - Last edit 15-May-2025 
  
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
