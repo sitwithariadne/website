@@ -126,7 +126,7 @@ How do they approach how others could view them?
 
 -----
 
-v1.7 - Last edit 15-May-2025 
+v1.8 - Last edit 15-May-2025 
  
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
