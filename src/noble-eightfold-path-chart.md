@@ -7,8 +7,10 @@ Some modifications I've made listening to Ajahn Brahm a while.
 **Saṅkappa**, a Pali word, the most common English translation may be "thought" or "resolve". Closer would be "motivation" ... the reason we do the practice, the goals being aspired towards.
 
 [PDF](./archive/eightfold-path-wall-chart.pdf)
+
+[Google Document](https://docs.google.com/document/d/1r_ba-zn1ZzTVHPeJq7mdFJTYDQehOhz4yGdCAA3XTzM/edit?usp=sharing)
 -----
 
-v2.5 - Last edit 14-May-2025
+v2.6 - Last edit 14-May-2025
 
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
