@@ -1,4 +1,4 @@
-[DBT Materials](dbt-materials.md)
+[Intro](intro.md)
 
 ---
 

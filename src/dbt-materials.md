@@ -1,1 +1,0 @@
-The DBT materials are found on my other site, [dbtwithariadne.com](https://www.dbtwithariadne.com)
