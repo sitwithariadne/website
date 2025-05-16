@@ -2,6 +2,9 @@
 
 Below is my remixed version.  Each time I tell it I change it a little bit.
 
+**Youngin'** ... a young person, let's say 15.
+
+---
 
 ### The Starfish Story
 
@@ -11,34 +14,54 @@ An old man walks along a beach he lives nearby.
 
 And all along the beach,  glittering in the morning sun, are starfish. 
 
-... drying out. dying. too far from the ocean for the tide to get them.
+... drying out. 
 
-thousands, as far as he can see. Soundless death.
+dying
 
-The old man stops. He's seen many strange things on this beach.
+too far to be rescued by the tide ...
 
-Continuing ... he's careful to step over each one, feeling sadness with each step.
+thousands,
 
-Anyway, after about an hour of careful walking, in the distance, he can make out a figure, ... moving around erratically.
+dying
 
-Getting closer it's a girl.
+The old man stops, covers his horror with bemusement.
 
-... closer still, it's a girl, throwing starfish back into the ocean.
+continues his walk 
 
-... carefully picking up each one, giving it a toss, just a few feet back into the water.
+but careful to step over, not onto the starfish.
 
-The girl and the old man come closer, until they are within conversation distance of each other.
+about an hour of careful walking, in the distance, he can make out a figure, ... 
 
-The old man, looks at the girl, astonished and irritated.
+a youngin'
 
-"What are you doing? You can't possibly save them all, it doesn't matter"
+... throwing stuff into the ocean
 
-The girl smiling, looks up making eye contact. We hear a splash.
+litter?
+
+No. Starfish.
+
+... thoughtfully and carefully, throwing starfish into the ocean.
+
+throwing
+
+He's much closer now, shouting distance
+
+The old man, looks at the youngin' -- mostly irritated.
+
+He's within touching distance, too close, starfish distance.
+
+Old man: "Why?"  
+Old man: "You can't possibly save them all"  
+Old man: "it doesn't matter"  
+
+Splash
+
+The youngin' excitedly replies:
 
 "... It mattered to that one!"
 
 ---
 
-v1.2 - Last edit 16-May-2025
+v1.3 - Last edit 16-May-2025
 
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
