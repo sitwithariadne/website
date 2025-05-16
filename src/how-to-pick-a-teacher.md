@@ -5,7 +5,7 @@ My personal emphasis is peace and non-harm.
 ### Are they in a cult?
 
 - How easy is it to join and leave the teacher (or practice?)
-- Check online "thing-i-am-interested-in cult" ... does it appear safe?
+- Check online ... does it appear safe?
 
 ### Has kindness, compassion, forgiveness, attunement, and understanding
 
@@ -143,7 +143,7 @@ How do they approach how others could view them?
 
 -----
 
-v1.11 - Last edit 16-May-2025 
+v1.12 - Last edit 16-May-2025 
  
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
