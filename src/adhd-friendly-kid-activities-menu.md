@@ -19,7 +19,7 @@ I have a printed & laminated version of this to help with parenting.
 
 I have ADHD and part of that is not knowing what to do next, so this is a kind of menu.
 
-## Low Key
+# Low Key
 
 - [ ] Watch Mr. Rogers and play in the sand  
 - [ ] Play with water kinetic art sculpture or pin sculpture  
@@ -29,8 +29,6 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 ## Art
 
 - [ ] Create with LEGO
-- [ ] Produce on synth (Deluge)
-- [ ] Produce on iPad (Quantiloop)
 - [ ] Play on piano (Pianoteq)
 - [ ] Draw on iPad (Procreate, Vectornator)
 - [ ] Animate on iPad (Flipaclip)
@@ -68,8 +66,8 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 ## Art
 
 - [ ] Jam session with synths, guitars, etc.
-- [ ] Do spirograph
-- [ ] Make a Viridian Art Activity a parent activity
+- [ ] Spirograph
+- [ ] Make a child art Activity a Parent activity
 
 ## Family
 
@@ -88,7 +86,6 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 - [ ] Play in therapy sand
 - [ ] Visit the park (Local Park, Aerobie, etc.)
 - [ ] Go swimming
-- [ ] Ride electric vehicles
 - [ ] Make performance art (Poi, Fiber Whips, etc.)
 - [ ] Make sidewalk chalk art
 
@@ -98,6 +95,6 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 -----
 
-v1.4 - Last edit 16-May-2025
+v1.5 - Last edit 16-May-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
