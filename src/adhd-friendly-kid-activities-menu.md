@@ -66,8 +66,9 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 ## Intellectual
 
-- [ ] Play Chess
-- [ ] Learn STEM (Electronics, Arduino, etc.)
+[ ] Play Chess
+
+[ ] Learn STEM (Electronics, Arduino, etc.)
 
 ## Physical & Outside
 
@@ -84,6 +85,6 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 -----
 
-v1.3c - Last edit 16-May-2025
+v1.3d - Last edit 16-May-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
