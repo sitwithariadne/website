@@ -6,41 +6,40 @@
 
 I have two forces in my life, that give me tremendous incentive to learn the mechanics to suffer less: chronic pain and dissociation.
 
-# Dissociation 
+I dissociate, so I've gotten good at writing stuff down.
 
-I sometimes [dissociate](https://www.isst-d.org/resources/dissociation-faqs/). While dissociation can be a useful coping strategy, it is disruptive, so I started to look for alternative ways to cope.
+I want to help others, so what I can share publicly about how to suffer less, I've written here.
 
-Forgetting things isn't glamorous. There is always the risk that if I don't write something down, I will forget it. This blog represents some of the brightest parts of myself I want to remember and share with others.
+# Privacy
 
-Without written record, my lived experience sometimes becomes moment-to-moment and some moments are unbearable. I'm in several overlapping groups for suicide risk. I want to survive those future moments of psychic pain. 
+These are my references, or bonafides. My experience being alive has so far been harrowing. I am fearful of providing more detail in a public setting.
 
 # Chronic pain
 
-I have two kinds of chronic pain. These are unpleasant sensations I feel frequently, sometimes daily, sometimes severely, sometimes disabling.
+I developed daily chronic pain in October of 2015.
 
-One is pelvic floor related; I find physical therapy and acupuncture help.
-The other is migraine related; I find meditation helps me a great deal with my migraines.
+I get migraines now, and meditation helps with those too.
 
-# Peer-Support
+My meditation practice helps me with both kinds of pain.
 
-Some of the materials found on this blog, I have laminated in my house. They are my personal materials.
+# Dissociation 
 
-I find I do better when I'm helping others use the same methods I myself am using. It gives me incentive to read new texts and learn new methods.
+Early childhood abuse means I [dissociate](https://www.isst-d.org/resources/dissociation-faqs/).
+
+My meditation practice helps manage dissociation.
 
 # Most of this blog is public domain
 
-In the spirit of giving this book isn't monetized. Most of the content I've authored is licensed as [CC0](https://creativecommons.org/publicdomain/zero/1.0/), public domain.
+As much as possible, this book is Public Domain via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 # Contact Info
-
-I can share my Discord/Linkedin/Facebook over email. I try and maintain a touch of privacy on the open web.
 
 Email: `sit with ariadne` [at] `gmail` [dot] `com`
 
 -----
 
-v2.8 - Last edit 16-May-2025
+v2.9 - Last edit 16-May-2025
 
-This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
