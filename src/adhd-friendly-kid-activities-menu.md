@@ -1,9 +1,15 @@
 ﻿<style>
-/* Hide bullets from Markdown task lists */
+/* Remove bullets and left indenting from task lists */
 ul > li:has(input[type="checkbox"]) {
   list-style-type: none;
   margin-left: 0;
   padding-left: 0;
+}
+
+/* Optional: remove padding from the parent ul if needed */
+ul:has(li input[type="checkbox"]) {
+  padding-left: 0;
+  margin-left: 0;
 }
 </style>
 
@@ -91,6 +97,6 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 -----
 
-v1.3h - Last edit 16-May-2025
+v1.3i - Last edit 16-May-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
