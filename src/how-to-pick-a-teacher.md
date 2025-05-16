@@ -2,6 +2,11 @@
 
 My personal emphasis is peace and non-harm.
 
+### Are they in a cult?
+
+- How easy is it to join and leave the teacher (or practice?)
+- Check online "thing-i-am-interested-in cult" ... does it appear safe?
+
 ### Has kindness, compassion, forgiveness, attunement, and understanding
 
 - Do they seek to understand? 
@@ -42,6 +47,14 @@ When our behaviors change, we change. Examples of behaviors:
 - Etc.
 
 A teacher knows a variety of behaviors leading towards change.
+
+### Helps you practice the behaviors leading towards change
+
+Let's say you follow a meditation teacher. Do their instructions make meditation:
+
+- Easier or harder?
+- More or less enjoyable?
+- Do you feel better or worse after practice?
 
 ### Admits, owns, and apologizes for their mistakes
 
@@ -120,19 +133,17 @@ How do they approach how others could view them?
 - Can they be modest? 
 - Avoids arguments? 
 - Are their claims reasonable? 
-- Do they claim to have _a path_, or  _the one_  true path? 
 - What do they consider wealth? 
 - How do they manage it?
 
 ## Antigoals
-### Stuff you probably want to avoid
+### Stuff I avoid
 
 [The Advaita Trap - Confusing the Absolute and the Relative](https://www.youtube.com/watch?v=4KXidr0z1RY)
 
-
 -----
 
-v1.10 - Last edit 15-May-2025 
+v1.11 - Last edit 16-May-2025 
  
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
