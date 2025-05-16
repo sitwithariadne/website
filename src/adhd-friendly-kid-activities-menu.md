@@ -1,4 +1,5 @@
 ﻿<style>
+/* AI Code, works, whatever */
 /* Remove bullets and left indenting from task lists */
 ul > li:has(input[type="checkbox"]) {
   list-style-type: none;
@@ -20,10 +21,10 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 ## Low Key
 
-☐ Watch Mr. Rogers and play in the sand  
-☐ Play with water kinetic art sculpture or pin sculpture  
-☐ Spend time on patio listening to outside  
-☐ Imagine with stuffies under the bed  
+- [ ] Watch Mr. Rogers and play in the sand  
+- [ ] Play with water kinetic art sculpture or pin sculpture  
+- [ ] Spend time on patio listening to outside  
+- [ ] Imagine with stuffies under the bed  
 
 ## Art
 
@@ -79,8 +80,8 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 ## Intellectual
 
-[ ] Play Chess  
-[ ] Learn STEM (Electronics, Arduino, etc.)  
+- [ ] Play Chess  
+- [ ] Learn STEM (Electronics, Arduino, etc.)  
 
 ## Physical & Outside
 
@@ -97,6 +98,6 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 -----
 
-v1.3i - Last edit 16-May-2025
+v1.4 - Last edit 16-May-2025
 
 This work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
