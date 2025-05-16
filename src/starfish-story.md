@@ -8,11 +8,11 @@ Below is my remixed version.  Each time I tell it I change it a little bit.
 
 ### The Starfish Story
 
-An old man walks along a beach he lives nearby.
+Living nearby,
 
-... the previous night, a storm came through. 
+an old man walks along a beach. 
 
-And all along the beach,  glittering in the morning sun, are starfish. 
+glittering in the morning sun, are starfish. 
 
 ... drying out. 
 
@@ -20,11 +20,13 @@ dying
 
 too far to be rescued by the tide ...
 
-thousands,
+thousands
 
 dying
 
-The old man stops, covers his horror with bemusement.
+Old man: "I guess they got stuck from the storm last night."
+
+Covering horror with amusement.
 
 continues his walk 
 
@@ -38,17 +40,19 @@ a youngin'
 
 litter?
 
-No. Starfish.
+*Starfish.*
 
-... thoughtfully and carefully, throwing starfish into the ocean.
+... slowly and carefully, throwing starfish into the ocean.
 
-throwing
+reach-and-throw, reach-and-throw, reach-and-throw
 
 He's much closer now, shouting distance
 
-The old man, looks at the youngin' -- mostly irritated.
+Old Man is irritated.  
+Old Man has Seen Things.  
+Old Man knows this is pointless.  
 
-He's within touching distance, too close, starfish distance.
+He's within touching distance, starfish distance.
 
 Old man: "Why?"  
 Old man: "You can't possibly save them all"  
@@ -62,6 +66,6 @@ The youngin' excitedly replies:
 
 ---
 
-v1.3 - Last edit 16-May-2025
+v1.4 - Last edit 16-May-2025
 
 This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
