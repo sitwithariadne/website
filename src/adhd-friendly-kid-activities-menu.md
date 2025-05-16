@@ -4,10 +4,10 @@ I have ADHD and part of that is not knowing what to do next, so this is a kind o
 
 ## Low Key
 
-\u2610 Watch Mr. Rogers and play in the sand
-- [ ] Play with water kinetic art sculpture or pin sculpture
-- [ ] Spend time on patio listening to outside
-- [ ] Imagine with stuffies under the bed
+☐ Watch Mr. Rogers and play in the sand
+☐ Play with water kinetic art sculpture or pin sculpture
+☐ Spend time on patio listening to outside
+☐ Imagine with stuffies under the bed
 
 ## Art
 
