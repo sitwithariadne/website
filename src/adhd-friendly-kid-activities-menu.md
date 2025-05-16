@@ -1,11 +1,12 @@
 ﻿<style>
-/* Hide bullets for task lists on this page only */
-.task-list-item {
+/* Hide bullets from Markdown task lists */
+ul > li:has(input[type="checkbox"]) {
   list-style-type: none;
   margin-left: 0;
   padding-left: 0;
 }
 </style>
+
 
 I have a printed & laminated version of this to help with parenting. 
 
