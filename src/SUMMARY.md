@@ -1,4 +1,6 @@
 [Intro](intro.md)
+[Author](author.md)
+[Contact Info](contact-info.md)
 
 ---
 
@@ -70,4 +72,3 @@
 
 ---
 
-[Author](author.md)

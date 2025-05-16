@@ -6,7 +6,7 @@ This a spiritual/religious/meditation blog.
 I know this stuff is sometimes contentious, I hope the reader has an easy time with it, and it doesn't cause harm. I hope it helps.
 
 # Who I am
-My details are [here](./author.md)
+My details are [here](./author.md).
 
 # Sources 
 Some of the stuff I've included are my ideas/opinions. Other stuff comes from various authors, or the [Pali Canon](https://en.wikipedia.org/wiki/Pali_Canon). I try and cite sources wherever I can.

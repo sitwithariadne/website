@@ -28,13 +28,6 @@ Early childhood abuse means I [dissociate](https://www.isst-d.org/resources/diss
 
 My meditation practice helps manage dissociation.
 
-# Most of this blog is public domain
-
-As much as possible, this book is Public Domain via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
-# Contact Info
-
-Email: `sit with ariadne` [at] `gmail` [dot] `com`
 
 -----
 
