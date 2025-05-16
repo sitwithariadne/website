@@ -1,6 +1,7 @@
 [Intro](intro.md)
 [Author](author.md)
 [Contact Info](contact-info.md)
+[License](license.md)
 
 ---
 
@@ -65,10 +66,12 @@
 - [Noble Eightfold Path Chart](noble-eightfold-path-chart.md)
 - [A Friend](a-friend.md)
 - [Things to Renounce](things-to-renounce.md)
+- [Two Kinds of Thought](two-kinds-of-thought.md)
 
 # Etc
 
 - [The Usual Texts](the-usual-texts.md)
 
 ---
+
 
