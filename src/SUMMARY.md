@@ -50,7 +50,7 @@
 
 # Stories
 
-- [The Starfish Story](the-starfish-story.md)  
+- [The Starfish Story](starfish-story.md)  
 - [The Narcissist's Prayer](the-narcissists-prayer.md)  
 - [Good Bad Who Knows](good-bad-who-knows.md)    
 
