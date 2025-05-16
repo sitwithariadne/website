@@ -1,13 +1,22 @@
-﻿I have a printed & laminated version of this to help with parenting. 
+﻿<style>
+/* Hide bullets for task lists on this page only */
+.task-list-item {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+</style>
+
+I have a printed & laminated version of this to help with parenting. 
 
 I have ADHD and part of that is not knowing what to do next, so this is a kind of menu.
 
 ## Low Key
 
-  ☐ Watch Mr. Rogers and play in the sand  
-  ☐ Play with water kinetic art sculpture or pin sculpture  
-  ☐ Spend time on patio listening to outside  
-  ☐ Imagine with stuffies under the bed  
+☐ Watch Mr. Rogers and play in the sand  
+☐ Play with water kinetic art sculpture or pin sculpture  
+☐ Spend time on patio listening to outside  
+☐ Imagine with stuffies under the bed  
 
 ## Art
 
