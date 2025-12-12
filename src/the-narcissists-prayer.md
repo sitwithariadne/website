@@ -57,37 +57,36 @@ In this example Quinn and Morgan have the same starting conditions, but very dif
 >
 > **Quinn (to themselves):** Morgan is pretty confident I'm OK, I'll be OK.
 
-  
 
 ## (3) And If It was, That's Not a Big Deal - Project
 
  
 > **Quinn:**  Um ... it does hurt, it hurts a lot.
 > 
-> **Morgan:**  It happens, people's feet get stepped on all the time.
+> **Morgan:**  It's not a big deal. Get over it.
 >
-> When Morgan was growing up, they heard this line used ... a lot. Something would happen and Morgan's parents would go "That's how the world is." No one in Morgan's family took responsibility for things ... now Morgan doesn't.
+> When Morgan was growing up, they heard this line used ... a lot. Something would happen and Morgan's parents would go "it's not a big deal." Morgan found out none of their thoughts or feelings were "a big deal".
 >
-> **Quinn (to themselves):** (Still in pain) I guess this is OK.
+> **Quinn (to themselves):** (Still in pain) I guess I'll be fine.
 
 ## (4) And if it is, that's not my fault - That's How The World is
 
 > **Quinn:**  Morgan, this really hurts!
 > 
-> **Morgan:**  It isn't my fault, I'm clumsy.
+> **Morgan:**  It happens, people's feet get stepped on all the time.
 >
-> At this point Quinn knows how this whole exchange is supposed to go. Morgan is supposed to validate Quinn's intangible reality, harm has happened. How Morgan sees it is ... this is how the world works. Morgan's parents have told them they are clumsy hundreds of times. Morgan is just clumsy, there isn't any changing this.
+> At this point Quinn knows how this whole exchange is supposed to go. Morgan is supposed to validate Quinn's intangible reality, harm has happened. How Morgan sees it is ... this is how the world works. Morgan's parents have told them "this is how the world works, people are cruel." Morgan has experienced cruelty enough to think it's commonplace. Morgan has internalized it.
 > 
 > **Quinn (to themselves):** Why can't Morgan just say they are sorry?
 
 
 ## (5) And if it was, I didn't mean it - Claim Pure Intentions
 
-> **Quinn:** I get it, you are clumsy. Are you sorry?
+> **Quinn:** It seems like it was an accident. Aren't you sorry?
 > 
 > **Morgan:** I didn't intend to step on you. 
 >
-> Morgan has admitted to being clumsy. Now the shame is going full-tilt, because Morgan has partly admitted to being involved and making a mistake. Morgan would rather not be friends, period, vs feel that level of shame. Morgan says since they didn't mean to hurt Quinn, the harm doesn't count.
+> Morgan will avoid shame at all costs. One method is to think of what "good people do" which is they don't intend harm. Harm has happened and instead of apologizing for the harm, Morgan will recall the moment before the accident, where nothing was intended. Instead of acknowledging the moment Quinn cares about, the accident, Morgan will bring up the moment before, to point out their complete non-involvement, as if they were not present at all.
 >
 > **Quinn (to themselves):** .. But you still hurt me. Please acknowledge you hurt me. Please acknowledge you care.
 
@@ -97,8 +96,7 @@ In this example Quinn and Morgan have the same starting conditions, but very dif
 > 
 > **Morgan:** ... You were in my way. Why are you making such a big deal out of this? Stop attacking me! Calm down. 
 >
-> This is the end of the script. From here it can repeat, but what it usually turns into is JADE (Justify, Argue, Defend, Explain) as Quinn and Morgan go around endlessly trying to get the other to agree to how to see the event. Quinn wants validation, Morgan doesn't want to feel shame.
->
+> The end of the script. The last tool combines the set in one attack, where Morgan will claim they are the victim. From here it becomes a JADE loop (Justify, Argue, Defend, Explain). Quinn should understand the apology will never come, because it involves emotions Morgan never wants to have.
 >
 > **Quinn (to themselves):** Maybe I'm not being clear enough ... Let me try again.
 
@@ -110,4 +108,11 @@ In this example Quinn and Morgan have the same starting conditions, but very dif
 ](https://www.youtube.com/c/DoctorRamani/videos)[Dr. Ramani - Narcissistic relationships and the trap of the "almost win"](https://www.youtube.com/watch?v=_gUiTiNSjtg)  
 [Dr. Ramani - What does it mean when a narcissist says "I love you"?](https://www.youtube.com/watch?v=P7CsoyEggXg)
 [Narcissist Support](https://www.reddit.com/r/narcissism/comments/htwc41/read_this_first_if_you_think_you_or_someone_you/)
-[Darvo - Southpark](https://southpark.cc.com/video-clips/oj5hoz/south-park-you-re-not-the-president-of-the-united-states) 
+[Darvo - Southpark](https://southpark.cc.com/video-clips/oj5hoz/south-park-you-re-not-the-president-of-the-united-states)
+[The Art of a Heartfelt Apology - Harvard Health](https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366)
+
+-----
+
+v1.6 12-Dec-2025
+
+This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
