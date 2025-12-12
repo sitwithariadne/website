@@ -19,15 +19,6 @@ And if it was, I didn't mean it. . . . . . 5 - Redirect
 And if I did, you deserved it. . . . . . . 6 - DARVO
 ```
 
-#### A and B
-I didn't want to use names people have, so I went with A and B. Please use whatever names you feel comfortable with.
-
-For ease:<br>
-A stands for **A**wkward<br>
-B stands for **B**ad<br>
-
-B steps on A's foot. I'm imaginging a scenario at a school, ages 15 to 18.
-
 ## 1. That Didn't Happen - Negate
 
 Denying Reality.
@@ -52,7 +43,7 @@ Telling someone how to feel.
 > 
 > **B:**  Calm down.
 
-## 4. And if it is, that's not my fault - Normalize
+## 4. And if it is, That's Not My Fault - Normalize
 
 Telling someone how to think.
 
@@ -60,7 +51,7 @@ Telling someone how to think.
 > 
 > **B:**  Shit happens.
 
-## 5. And if it was, I didn't mean it - Redirect
+## 5. And if it was, I Didn't Mean It - Redirect
 
 Moving the goalposts.
 
@@ -68,7 +59,7 @@ Moving the goalposts.
 > 
 > **B:** I didn't intend to step on you. 
 
-## 6. And if I did, you deserved it -  [DARVO](https://en.wikipedia.org/wiki/DARVO)
+## 6. And if I did, You Deserved It - [DARVO](https://en.wikipedia.org/wiki/DARVO)
 
 Becoming the victim.
 
@@ -78,15 +69,16 @@ Becoming the victim.
 
 # References
 
-[Dr. Ramani - YouTube  
-](https://www.youtube.com/c/DoctorRamani/videos)[Dr. Ramani - Narcissistic relationships and the trap of the "almost win"](https://www.youtube.com/watch?v=_gUiTiNSjtg)  
+[Dr. Ramani - YouTube](https://www.youtube.com/c/DoctorRamani/videos)[Dr. Ramani - Narcissistic relationships and the trap of the "almost win"](https://www.youtube.com/watch?v=_gUiTiNSjtg)
+
 [Dr. Ramani - What does it mean when a narcissist says "I love you"?](https://www.youtube.com/watch?v=P7CsoyEggXg)
-[Narcissist Support](https://www.reddit.com/r/narcissism/comments/htwc41/read_this_first_if_you_think_you_or_someone_you/)
-[Darvo - Southpark](https://southpark.cc.com/video-clips/oj5hoz/south-park-you-re-not-the-president-of-the-united-states)
-[The Art of a Heartfelt Apology - Harvard Health](https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366)
+
+[Reddit - Narcissist Support](https://www.reddit.com/r/narcissism/comments/htwc41/read_this_first_if_you_think_you_or_someone_you/)
+
+[Harvard Health - The Art of a Heartfelt Apology](https://www.health.harvard.edu/blog/the-art-of-a-heartfelt-apology-2021041322366)
 
 -----
 
-v2.1 12-Dec-2025
+v2.3 12-Dec-2025
 
 This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
