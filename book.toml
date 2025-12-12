@@ -1,7 +1,7 @@
 [book]
 title = "Sit With Ariadne"
 description = "Meditation and peer-support things."
-authors = "Ariadne"
+authors = ["Ariadne"]
 language = "en"
 
 [output.html]
