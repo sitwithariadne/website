@@ -1,6 +1,8 @@
 [book]
 title = "Sit With Ariadne"
-author = "Ariadne"
+description = "Meditation and peer-support things."
+authors = "Ariadne"
+language = "en"
 
 [output.html]
 git-repository-url = "https://github.com/sitwithariadne/website"
