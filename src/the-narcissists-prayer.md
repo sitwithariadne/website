@@ -76,7 +76,6 @@ Becoming the victim.
 > 
 > **B:** You're interrogating me after I already said I didn't mean it. Stop.
 
-
 # References
 
 [Dr. Ramani - YouTube  
@@ -88,6 +87,6 @@ Becoming the victim.
 
 -----
 
-v1.6 12-Dec-2025
+v2.1 12-Dec-2025
 
 This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
