@@ -67,6 +67,7 @@
 - [A Friend](a-friend.md)
 - [Things to Renounce](things-to-renounce.md)
 - [Two Kinds of Thought](two-kinds-of-thought.md)
+- [Seven Factors Of Enlightenment](seven-factors-of-enlightenment.md)
 
 # Etc
 
