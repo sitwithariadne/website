@@ -30,26 +30,37 @@ My texts come from the [Pāḷi Canon](https://en.wikipedia.org/wiki/Pali_Canon)
 
 [Trauma Sensitive Mindfulness - David Treavlan](https://wwnorton.com/books/9780393709780)
 
-### **Self Compassion**
+### Self Compassion
 
 [Radical Acceptance - Tara Brach](https://www.tarabrach.com/store/)
 
-[Self-Compassion - Kristin Neff](https://www.amazon.com/Self-Compassion-Proven-Power-Being-Yourself/dp/0061733520)
+[Self-Compassion - Kristin Neff](https://self-compassion.org/books-by-kristin-neff/)
 
-[Center for Mindful Self-Compassion](https://centerformsc.org/practice-msc/guided-meditations-and-exercises/) (Meditations and Exercises) 
+[Center for Mindful Self-Compassion](https://centerformsc.org/practice-msc/guided-meditations-and-exercises/) (Meditations and Exercises)
 
-[The Power of Vulnerability - Brene Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en) (A video on shame)  
+[The Power of Vulnerability - Brene Brown](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en) (A video on shame)
   
 ### Elder Texts
 
-[The Path of Purification - Visuddhimagga](https://www.accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf) (not canon)  
+[The Path of Purification - Visuddhimagga](https://www.accesstoinsight.org/lib/authors/nanamoli/PathofPurification2011.pdf) (not canon)
 
-[The Abhidhammattha Sangaha](https://www.saraniya.com/books/meditation/Bhikkhu_Bodhi-Comprehensive_Manual_of_Abhidhamma.pdf) (not canon)  
+[The Abhidhammattha Sangaha](https://www.saraniya.com/books/meditation/Bhikkhu_Bodhi-Comprehensive_Manual_of_Abhidhamma.pdf) (not canon)
 
-[The Path of Discrimination - Patisambhidamagga](https://suttacentral.net/pitaka/sutta/minor/kn/ps)  
+[The Path of Discrimination - Patisambhidamagga](https://suttacentral.net/pitaka/sutta/minor/kn/ps)
+
+---
+
+These are books that have helped me to understand people better, stuff not mentioned elsewhere.
+
+### Scripts
+
+[Games People Play - Eric Berne](https://en.wikipedia.org/wiki/Games_People_Play_(book))
+
+[Gift of Fear - Gavin de Becker](https://en.wikipedia.org/wiki/The_Gift_of_Fear)
+
 
 ------
 
-v2.1- Last edit 17-Jan-2025
+v2.2 - Last edit 26-Aug-2026
 
 This work is dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
