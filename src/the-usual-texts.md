@@ -48,16 +48,11 @@ My texts come from the [Pāḷi Canon](https://en.wikipedia.org/wiki/Pali_Canon)
 
 [The Path of Discrimination - Patisambhidamagga](https://suttacentral.net/pitaka/sutta/minor/kn/ps)
 
----
-
-These are books that have helped me to understand people better, stuff not mentioned elsewhere.
-
 ### Scripts
 
-[Games People Play - Eric Berne](https://en.wikipedia.org/wiki/Games_People_Play_(book))
+[Games People Play - Eric Berne](https://en.wikipedia.org/wiki/Games_People_Play_(book)) - Transactional Analysis
 
-[Gift of Fear - Gavin de Becker](https://en.wikipedia.org/wiki/The_Gift_of_Fear)
-
+[Gift of Fear - Gavin de Becker](https://en.wikipedia.org/wiki/The_Gift_of_Fear) - Context Analysis
 
 ------
 
