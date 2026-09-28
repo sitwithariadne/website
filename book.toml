@@ -5,4 +5,6 @@ authors = ["Ariadne"]
 language = "en"
 
 [output.html]
+additional-css = ["theme/custom.css","theme/svg-zoomer.css"]
+additional-js = ["theme/svg-zoomer.js","theme/zoom-unstick.js"]
 git-repository-url = "https://github.com/sitwithariadne/website"

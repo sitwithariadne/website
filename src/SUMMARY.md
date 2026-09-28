@@ -15,7 +15,8 @@
 
 # Meditation and Mindfulness
 
-- [What is Mindfulness](what-is-mindfulness.md)  
+- [What is Mindfulness](what-is-mindfulness.md)
+- [Insight Practices](insight-practices.md)
 - [How to Pick a Teacher](how-to-pick-a-teacher.md)
 
 # Dissociation

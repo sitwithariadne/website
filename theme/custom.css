@@ -1,0 +1,15 @@
+/* custom.css — site-local tweaks.
+
+   Currently just the companion rule for theme/zoom-unstick.js; see
+   theme/README.md for where the zoom tooling came from. */
+
+/* While pinch-zoomed (html.pinch-zoomed, set by theme/zoom-unstick.js):
+   unstick the menu bar so it doesn't ride along magnified over the content
+   being zoomed. Unzoomed, stock behavior stays — the hover placeholder must
+   remain in flow, since its 50px height is what makes the bar visible at the
+   top of the page (the .page container starts at -50px and counts on it).
+   Overrides the .sticky/:hover/sidebar-visible rules in chrome.css. */
+html.pinch-zoomed #mdbook-menu-bar.sticky,
+html.pinch-zoomed #mdbook-menu-bar:hover,
+html.pinch-zoomed.sidebar-visible #mdbook-menu-bar{ position: relative; top: auto !important; }
+html.pinch-zoomed #mdbook-menu-bar-hover-placeholder{ position: relative; pointer-events: none; }
