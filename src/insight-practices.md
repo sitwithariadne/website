@@ -11,7 +11,7 @@ This is not a complete list.
 - **Birdwatching** - Watch the birds
 - **Weather Watching** - Watch the weather
 - **Sitting** - Sit somewhere, watch what's going on
-- **Photography** - Taking photos of what's going on
+- **Photography** - Take photos of what's going on
 
 ## Observational, formal
 
@@ -27,13 +27,13 @@ This is not a complete list.
 ## Writing
 
 - **Poetry** - Write about what's going on
-- **Diary / Journal** - Writing about what's going on
+- **Diary / Journal** - Write about what's going on
 - **Dream Journal** - Write your dreams down
-- **Morning Pages** - [Julia Cameron](https://en.wikipedia.org/wiki/Julia_Cameron)'s method
-- **Expressive Writing** - [James Pennebaker](https://en.wikipedia.org/wiki/James_W._Pennebaker)'s Method
+- **Morning Pages** - [Julia Cameron's](https://en.wikipedia.org/wiki/Julia_Cameron) method
+- **Expressive Writing** - [James Pennebaker's](https://en.wikipedia.org/wiki/James_W._Pennebaker) method
 - **Letter to self** - Write to yourself in the future or past
-- **Un-mailed Letter** - Write to others, do not send it
-- **Nature Journaling** - [John Muir](https://en.wikipedia.org/wiki/John_Muir)'s method
+- **Un-mailed Letter** - Write to someone else, but do not send it
+- **Nature Journaling** - [John Muir's](https://en.wikipedia.org/wiki/John_Muir) method
 
 ## Mixed Media
 
@@ -55,14 +55,14 @@ This is not a complete list.
 
 ## Meditative, motionless
 
-- **Mindfulness Meditation** - Eyes open, notice what's going on
-- **Mindfulness Meditation** - Eyes closed, notice what's going on
+- **Mindfulness Meditation** - Eyes open or eyes closed, notice what's going on
+- **Kindfulness Meditation** - [Ajahn Brahm's](https://en.wikipedia.org/wiki/Ajahn_Brahm) method
 - **Body Scan** - Notice body sensations
-- **Focusing** - [Eugene Gendlin](https://en.wikipedia.org/wiki/Eugene_Gendlin)'s formal process
+- **Focusing** - [Eugene Gendlin's](https://en.wikipedia.org/wiki/Eugene_Gendlin) method
 
 ## Meditative, with motion
 
-- **Walking Meditation** - walk and notice sensations in a formal way
+- **Walking Meditation** - Walk and notice sensations in a formal way
 - **Yoga** - Move and notice body sensations
 
 ## Conversational, informal
@@ -71,15 +71,20 @@ This is not a complete list.
 
 ## Conversational, formal
 
-- **Talk Therapy** - talk to a therapist about what you notice
-- **Internal Family Systems** - [Richard Schwartz](https://en.wikipedia.org/wiki/Richard_C._Schwartz)'s Method
-- **Non-violent Communication** -  [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg)'s Method
-- **Insight Dialog** -  [Gregory Kramer](https://en.wikipedia.org/wiki/Gregory_Kramer)'s Method
+- **Talk Therapy** - Talk to a therapist about what you notice
+- **Internal Family Systems** - [Richard Schwartz's](https://en.wikipedia.org/wiki/Richard_C._Schwartz) method
+- **Non-violent Communication** - [Marshall Rosenberg's](https://en.wikipedia.org/wiki/Marshall_Rosenberg) method
 
 ## Therapeutic, self-driven
 
-- **DBT Workbooks** - fill out a DBT workbook, (mostly emotions) - [Marsha Linehan](https://en.wikipedia.org/wiki/Marsha_M._Linehan)'s method
-- **CBT Workbooks** - fill out a CBT workbook, (mostly thoughts) - [Aaron Beck](https://en.wikipedia.org/wiki/Aaron_Beck)'s method
-- **Mindful Self-Compassion Workbook** - [Kristin Neff](https://en.wikipedia.org/wiki/Kristin_Neff)'s method
-- **IFS Self-Therapy** - [Jay Earley](https://en.wikipedia.org/wiki/Jay_Earley)'s method
-- **The Work** - [Byron Katie](https://en.wikipedia.org/wiki/Byron_Katie)'s method
+- **DBT Workbooks** - Mostly emotions - [Marsha Linehan's](https://en.wikipedia.org/wiki/Marsha_M._Linehan) method
+- **CBT Workbooks** - Mostly thoughts - [Aaron Beck's](https://en.wikipedia.org/wiki/Aaron_Beck) method
+- **Mindful Self-Compassion Workbook** - [Kristin Neff's](https://en.wikipedia.org/wiki/Kristin_Neff) method
+- **IFS Self-Therapy** - [Jay Earley's](https://en.wikipedia.org/wiki/Jay_Earley) method
+- **The Work** - [Byron Katie's](https://en.wikipedia.org/wiki/Byron_Katie) method
+
+-----
+
+v1.1 - Last edit 28-Sep-2026
+
+This is work dedicated to the Public Domain via [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
